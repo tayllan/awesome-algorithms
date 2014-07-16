@@ -1,7 +1,7 @@
 # Awesome Algorithms
 
 A curated list of awesome places to learn and/or practice algorithms.
-Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) and all the other Awesome libraries.
+Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) and all the other awesome Awesome libraries.
 
 - [Awesome Algorithms](#awesome-algorithms)
     - [Websites](#websites)
@@ -23,11 +23,11 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 
 *Free and High Quality University Courses Online*
 
-* [MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) -
+* [MIT - 6-00sc](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) -
     An easy and well explained introduction to algorithms.
-* [MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/) -
+* [MIT - 6-006](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/) -
     Well explained algorithms.
-* [MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/) -
+* [MIT - 6-046j](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/) -
     Similar to the previous one, but with different algorithms.
 
 ## Books
