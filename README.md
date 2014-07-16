@@ -1,4 +1,80 @@
-awesome-algorithms
-==================
+# Awesome Algorithms
 
 A curated list of awesome places to learn and/or practice algorithms.
+Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) and all the other Awesome libraries.
+
+- [Awesome Algorithms](#awesome-algorithms)
+    - [Websites](#websites)
+    - [Online Courses](#online-courses)
+    - [Books](#books)
+    - [Github Libraries](#github-libraries)
+    - [Online Judges](#online-judges)
+
+## Websites
+
+*Websites you should use to learn classic algorithms*
+
+* [Wikipedia - Algorithms](http://en.wikipedia.org/wiki/List_of_algorithms) - Of course!!
+* [Wikipedia - Data Structures](http://en.wikipedia.org/wiki/List_of_data_structures) - and why not ?!!
+* [Geeks for Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) -
+    Lots and lots of well explained and implemented algorithms.
+
+## Online Courses
+
+*Free and High Quality University Courses Online*
+
+* [MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) -
+    An easy and well explained introduction to algorithms.
+* [MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/) -
+    Well explained algorithms.
+* [MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/) -
+    Similar to the previous one, but with different algorithms.
+
+## Books
+
+*The most highly regarded books to learn algorithms*
+
+* [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms) - Essential!
+* [The Algorithm Design Manual](http://www.algorist.com/) - Easy to read and full of real world examples.
+* [Algorithm Design](http://www.aw-bc.com/info/kleinberg/) - Pretty straight-forward.
+
+## Github Libraries
+
+*Implementations of the most classic algorithms in a wide variety of programming languages*
+
+* [C](https://github.com/fragglet/c-algorithms)
+* [CoffeeScript](https://github.com/BrunoRB/algorithms.coffee)
+* C#
+    * [by @sorrentmutie](https://github.com/sorrentmutie/ClassicAlgorithms)
+    * [by @artemdude](https://github.com/artemdude/classic-algorithms)
+* [C++](https://github.com/xtaci/algorithms)
+* Java
+    * [by @phishman3579](https://github.com/phishman3579/java-algorithms-implementation)
+    * [by @asmolich](https://github.com/asmolich/algorithms)
+* JavaScript
+    * [by @felipernb](https://github.com/felipernb/algorithms.js)
+    * [by @nzakas](https://github.com/nzakas/computer-science-in-javascript)
+    * [by @duereg](https://github.com/duereg/js-algorithms)
+* Python
+    * [by @nryoung](https://github.com/nryoung/algorithms)
+    * [by @prakhar1989](https://github.com/prakhar1989/Algorithms)
+    * [by @laurentluce](https://github.com/laurentluce/python-algorithms)
+* [Ruby](https://github.com/kanwei/algorithms)
+
+## Online Judges
+
+*Online Judges to practice what you learned above*
+
+* [UVA](http://uva.onlinejudge.org/) -
+    Hundreds of problems (from previous ACM-ICPC Regionals, World Finals and others).
+* [SPOJ](http://www.spoj.com/) - More problems.
+* [ACM-ICPC Live Archive](http://livearchive.onlinejudge.org/) -
+    Hundreds of problems from previous ACM-ICPC Regionals and World Finals.
+* [URI](https://www.urionlinejudge.com.br/judge/login) -
+    Brazilian Online Judge. Not so much problems, but it's growing and it has online contests.
+* [CodeChef](http://www.codechef.com/) -
+    More problems and monthly online contests.
+* [CodeMarshal](https://algo.codemarshal.com/) -
+    Real world contests online!
+* [ProjectEuler](http://projecteuler.net/) -
+    Mathematical problems that can be solved using algorithms (or just a pencil, depends on how much you already know).
