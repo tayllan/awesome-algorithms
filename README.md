@@ -29,6 +29,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
     Well explained algorithms.
 * [MIT - 6-046j](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/) -
     Similar to the previous one, but with different algorithms.
+* [YogiBearian YouTube Channel](http://www.youtube.com/channel/UCv3Kd0guxD5KWQtP---9D6g) - Lots of well explained vidoes on various computer science subjects.
 
 ## Books
 
