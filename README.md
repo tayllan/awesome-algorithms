@@ -18,6 +18,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 * [Wikipedia - Data Structures](http://en.wikipedia.org/wiki/List_of_data_structures) - and why not ?!!
 * [Geeks for Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) -
     Lots and lots of well explained and implemented algorithms.
+* [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualize the behavior of Data Structures and play with its operations.
 
 ## Online Courses
 
