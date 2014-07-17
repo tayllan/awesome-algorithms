@@ -37,6 +37,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 * [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms) - Essential!
 * [The Algorithm Design Manual](http://www.algorist.com/) - Easy to read and full of real world examples.
 * [Algorithm Design](http://www.aw-bc.com/info/kleinberg/) - Pretty straight-forward.
+* [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - The Book.
 
 ## Github Libraries
 
@@ -60,6 +61,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
     * [by @prakhar1989](https://github.com/prakhar1989/Algorithms)
     * [by @laurentluce](https://github.com/laurentluce/python-algorithms)
 * [Ruby](https://github.com/kanwei/algorithms)
+* [Scala](https://github.com/vkostyukov/scalacaster)
 
 ## Online Judges
 
