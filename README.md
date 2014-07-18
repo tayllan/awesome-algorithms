@@ -51,6 +51,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
     * [by @sorrentmutie](https://github.com/sorrentmutie/ClassicAlgorithms)
     * [by @artemdude](https://github.com/artemdude/classic-algorithms)
 * [C++](https://github.com/xtaci/algorithms)
+* [Erlang](https://github.com/aggelgian/erlang-algorithms)
 * Java
     * [by @phishman3579](https://github.com/phishman3579/java-algorithms-implementation)
     * [by @asmolich](https://github.com/asmolich/algorithms)
