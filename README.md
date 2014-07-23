@@ -59,12 +59,15 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
     * [by @felipernb](https://github.com/felipernb/algorithms.js)
     * [by @nzakas](https://github.com/nzakas/computer-science-in-javascript)
     * [by @duereg](https://github.com/duereg/js-algorithms)
+* Objective-C
+    * [by @ EvgenyKarkan](https://github.com/EvgenyKarkan/EKAlgorithms)
 * Python
     * [by @nryoung](https://github.com/nryoung/algorithms)
     * [by @prakhar1989](https://github.com/prakhar1989/Algorithms)
     * [by @laurentluce](https://github.com/laurentluce/python-algorithms)
 * [Ruby](https://github.com/kanwei/algorithms)
 * [Scala](https://github.com/vkostyukov/scalacaster)
+
 * [Language agnostic](https://github.com/kennyledet/Algorithm-Implementations)
 * [Code Library](https://github.com/indy256/codelibrary)
 
