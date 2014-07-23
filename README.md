@@ -67,7 +67,6 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
     * [by @laurentluce](https://github.com/laurentluce/python-algorithms)
 * [Ruby](https://github.com/kanwei/algorithms)
 * [Scala](https://github.com/vkostyukov/scalacaster)
-
 * [Language agnostic](https://github.com/kennyledet/Algorithm-Implementations)
 * [Code Library](https://github.com/indy256/codelibrary)
 
