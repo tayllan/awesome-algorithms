@@ -56,6 +56,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 * Java
     * [by @phishman3579](https://github.com/phishman3579/java-algorithms-implementation)
     * [by @asmolich](https://github.com/asmolich/algorithms)
+    * [by @psjava](https://github.com/psjava/psjava)
 * JavaScript
     * [by @felipernb](https://github.com/felipernb/algorithms.js)
     * [by @nzakas](https://github.com/nzakas/computer-science-in-javascript)
