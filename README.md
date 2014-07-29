@@ -94,3 +94,5 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
     Mathematical problems that can be solved using algorithms (or just a pencil, depends on how much you already know).
 * [TopCoder](http://www.topcoder.com/) - Lots of problems and real world/money worthy problems in Graphic Design, Data Science and Development.
 * [Infoarena](http://www.infoarena.ro/) - Romanian Online Judge. 1500+ algorithmic problems
+* [AIZU ONLINE JUDGE](http://judge.u-aizu.ac.jp/onlinejudge/) - Japanese Online Judge.
+* [PKU JudgeOnline](http://poj.org/) - Chinese Online Judge.
