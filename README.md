@@ -22,6 +22,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 * [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) - A dense article on Algorithms Visualization.
 * [Big-O Cheat Sheet](http://bigocheatsheet.com/) - Big-O complexities of common algorithms used in Computer Science.
 * [stoimen's web log](http://www.stoimen.com/blog/) - Some algorithms nicely explained.
+* [VisuAlgo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html) - Visualising data structures and algorithms through animation.
 
 ## Online Courses
 
