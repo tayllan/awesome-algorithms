@@ -9,6 +9,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
     - [Books](#books)
     - [Github Libraries](#github-libraries)
     - [Online Judges](#online-judges)
+    - [Tools](#tools)
 
 ## Websites
 
