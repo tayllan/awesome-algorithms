@@ -99,3 +99,10 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 * [Infoarena](http://www.infoarena.ro/) - Romanian Online Judge. 1500+ algorithmic problems
 * [AIZU ONLINE JUDGE](http://judge.u-aizu.ac.jp/onlinejudge/) - Japanese Online Judge.
 * [PKU JudgeOnline](http://poj.org/) - Chinese Online Judge.
+
+## Tools
+
+*Some tools that can help you in the learning of algorithms*
+
+* [flow-chart.js](http://brunorb.github.io/flow-chart.js/dist/index.html) -
+    A tool that let you create flowcharts that can simulate real programs.
