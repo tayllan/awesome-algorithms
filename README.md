@@ -24,10 +24,11 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 * [Big-O Cheat Sheet](http://bigocheatsheet.com/) - Big-O complexities of common algorithms used in Computer Science.
 * [stoimen's web log](http://www.stoimen.com/blog/) - Some algorithms nicely explained.
 * [VisuAlgo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html) - Visualising data structures and algorithms through animation.
+* [Algomation](http://www.algomation.com/) - A didactic, animated, exposition of algorithms.
 
 ## Online Courses
 
-*Free and High Quality University Courses Online*
+*Free and High Quality Courses Online*
 
 * [MIT - 6-00sc](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) -
     An easy and well explained introduction to algorithms.
@@ -107,4 +108,4 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 *Some tools that can help you in the learning of algorithms*
 
 * [flow-chart.js](http://brunorb.github.io/flow-chart.js/dist/index.html) -
-    A tool that let you create flowcharts that can simulate real programs.
+    A tool that allows you to create flowcharts that can simulate real algorithms.
