@@ -37,6 +37,8 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 * [MIT - 6-046j](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/) -
     Similar to the previous one, but with different algorithms.
 * [YogiBearian YouTube Channel](http://www.youtube.com/channel/UCv3Kd0guxD5KWQtP---9D6g) - Lots of well explained vidoes on various computer science subjects.
+* [Algorithms: Design and Analysis, Part 1](https://www.coursera.org/course/algo) - Course mainly based on the book "Introduction to Algorithm".
+* [Algorithms: Design and Analysis, Part 2](https://www.coursera.org/course/algo2) - Second part, focusing on Greedy and Dynamic paradigms, and NP-Complete problems.
 
 ## Books
 
@@ -48,6 +50,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 * [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - The Book.
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
 * [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) - The basic concepts and usages of data structures.
+* [Algorithms](http://algs4.cs.princeton.edu/home/) - Problems explained with Java, OO good practices, visualizations, and free online resources.
 
 ## Github Libraries
 
@@ -64,6 +67,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
     * [by @phishman3579](https://github.com/phishman3579/java-algorithms-implementation)
     * [by @asmolich](https://github.com/asmolich/algorithms)
     * [by @psjava](https://github.com/psjava/psjava)
+    * [by @jeandersonbc](https://github.com/jeandersonbc/algorithms-and-ds)
 * JavaScript
     * [by @felipernb](https://github.com/felipernb/algorithms.js)
     * [by @nzakas](https://github.com/nzakas/computer-science-in-javascript)
