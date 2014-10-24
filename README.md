@@ -106,7 +106,8 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 * [AIZU ONLINE JUDGE](http://judge.u-aizu.ac.jp/onlinejudge/) - Japanese Online Judge.
 * [PKU JudgeOnline](http://poj.org/) - Chinese Online Judge.
 * [Rosalind](http://rosalind.info/problems/locations/) - A platform for learning bioinformatics and programming through problem solving.
-* [LavidaOnlineJudge](http://judge.lavida.us) - Korean Online Judge(Half English). 1300+ problems
+* [LavidaOnlineJudge](http://judge.lavida.us) - Korean Online Judge(Half English). 1300+ problems.
+* [LeetCode](http://leetcode.com/) - Learn algorithms and prepare for interviews.
 
 ## Tools
 
