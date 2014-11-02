@@ -108,6 +108,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 * [Rosalind](http://rosalind.info/problems/locations/) - A platform for learning bioinformatics and programming through problem solving.
 * [LavidaOnlineJudge](http://judge.lavida.us) - Korean Online Judge(Half English). 1300+ problems.
 * [LeetCode](http://leetcode.com/) - Learn algorithms and prepare for interviews.
+* [HackerRank](https://www.hackerrank.com/) - Featured algorithm and functional programming online judges
 
 ## Tools
 
