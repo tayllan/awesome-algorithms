@@ -39,6 +39,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 * [YogiBearian YouTube Channel](http://www.youtube.com/channel/UCv3Kd0guxD5KWQtP---9D6g) - Lots of well explained vidoes on various computer science subjects.
 * [Algorithms: Design and Analysis, Part 1](https://www.coursera.org/course/algo) - Course mainly based on the book "Introduction to Algorithm".
 * [Algorithms: Design and Analysis, Part 2](https://www.coursera.org/course/algo2) - Second part, focusing on Greedy and Dynamic paradigms, and NP-Complete problems.
+* [Udacity Intro to Algorithms](https://www.udacity.com/course/cs215) - Python-based Algorithms course.
 
 ## Books
 
@@ -102,6 +103,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 * [ProjectEuler](http://projecteuler.net/) -
     Mathematical problems that can be solved using algorithms (or just a pencil, depends on how much you already know).
 * [TopCoder](http://www.topcoder.com/) - Lots of problems and real world/money worthy problems in Graphic Design, Data Science and Development.
+* [Learneroo Algorithms Tutorials](http://www.learneroo.com/subjects/8) - Learn and practice algorithms by solving challenges online.
 * [Infoarena](http://www.infoarena.ro/) - Romanian Online Judge. 1500+ algorithmic problems
 * [AIZU ONLINE JUDGE](http://judge.u-aizu.ac.jp/onlinejudge/) - Japanese Online Judge.
 * [PKU JudgeOnline](http://poj.org/) - Chinese Online Judge.
