@@ -25,6 +25,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 * [stoimen's web log](http://www.stoimen.com/blog/) - Some algorithms nicely explained.
 * [VisuAlgo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html) - Visualising data structures and algorithms through animation.
 * [Algomation](http://www.algomation.com/) - A didactic, animated, exposition of algorithms.
+* [Algorithmist](http://www.algorithmist.com/index.php/Main_Page) - The Algorithmist is a resource dedicated to anything algorithms - from the practical realm, to the theoretical realm. There are also links and explanation to problemsets.
 
 ## Online Courses
 
@@ -111,6 +112,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 * [LavidaOnlineJudge](http://judge.lavida.us) - Korean Online Judge(Half English). 1300+ problems.
 * [LeetCode](http://leetcode.com/) - Learn algorithms and prepare for interviews.
 * [HackerRank](https://www.hackerrank.com/) - Featured algorithm and functional programming online judges
+* [Codeforces ](http://codeforces.com/) - The only programming contests Web 2.0 platform
 
 ## Tools
 
