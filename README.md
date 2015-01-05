@@ -74,6 +74,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
     * [by @felipernb](https://github.com/felipernb/algorithms.js)
     * [by @nzakas](https://github.com/nzakas/computer-science-in-javascript)
     * [by @duereg](https://github.com/duereg/js-algorithms)
+    * [by @mgechev](https://github.com/mgechev/javascript-algorithms)
 * Objective-C
     * [by @ EvgenyKarkan](https://github.com/EvgenyKarkan/EKAlgorithms)
 * Python
