@@ -71,6 +71,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
     * [by @asmolich](https://github.com/asmolich/algorithms)
     * [by @psjava](https://github.com/psjava/psjava)
     * [by @jeandersonbc](https://github.com/jeandersonbc/algorithms-and-ds)
+    * [by @pedrovgs](https://github.com/pedrovgs/Algorithms)
 * JavaScript
     * [by @felipernb](https://github.com/felipernb/algorithms.js)
     * [by @nzakas](https://github.com/nzakas/computer-science-in-javascript)
