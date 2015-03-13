@@ -124,3 +124,11 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 
 * [flow-chart.js](http://brunorb.github.io/flow-chart.js/dist/index.html) -
     A tool that allows you to create flowcharts that can simulate real algorithms.
+
+## License
+
+And for the sake of copyleft, here's our license:
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
