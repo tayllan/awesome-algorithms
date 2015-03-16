@@ -41,6 +41,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 * [Algorithms: Design and Analysis, Part 1](https://www.coursera.org/course/algo) - Course mainly based on the book "Introduction to Algorithm".
 * [Algorithms: Design and Analysis, Part 2](https://www.coursera.org/course/algo2) - Second part, focusing on Greedy and Dynamic paradigms, and NP-Complete problems.
 * [Udacity Intro to Algorithms](https://www.udacity.com/course/cs215) - Python-based Algorithms course.
+* [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - Algorithm course ministred by Tomas Cormen and Devin Balkcom. 
 
 ## Books
 
