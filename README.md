@@ -86,6 +86,8 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
     * [by @laurentluce](https://github.com/laurentluce/python-algorithms)
 * [Ruby](https://github.com/kanwei/algorithms)
 * [Scala](https://github.com/vkostyukov/scalacaster)
+* Swift
+    * [by @kingreza] (https://github.com/kingreza/Swift-Algorithms-Strings-) 
 * Language agnostic
     * [by @kennyledet](https://github.com/kennyledet/Algorithm-Implementations)
     * [by @indy256](https://github.com/indy256/codelibrary)
