@@ -127,6 +127,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 
 * [flow-chart.js](http://brunorb.github.io/flow-chart.js/dist/index.html) -
     A tool that allows you to create flowcharts that can simulate real algorithms.
+* [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (algorithms and data structures).
 
 ## License
 
