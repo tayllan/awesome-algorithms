@@ -66,6 +66,7 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
 * C#
     * [by @sorrentmutie](https://github.com/sorrentmutie/ClassicAlgorithms)
     * [by @artemdude](https://github.com/artemdude/classic-algorithms)
+	* [by @aalhour](https://github.com/aalhour/C-Sharp-Algorithms)
 * [C++](https://github.com/xtaci/algorithms)
 * [Erlang](https://github.com/aggelgian/erlang-algorithms)
 * [Go](https://github.com/arnauddri/algorithms)
