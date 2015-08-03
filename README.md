@@ -80,6 +80,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
     * [by @mgechev](https://github.com/mgechev/javascript-algorithms)
 * Objective-C
     * [by @ EvgenyKarkan](https://github.com/EvgenyKarkan/EKAlgorithms)
+    * [by @hartbit]https://github.com/hartbit/ObjectivePatterns
 * Python
     * [by @nryoung](https://github.com/nryoung/algorithms)
     * [by @prakhar1989](https://github.com/prakhar1989/Algorithms)
@@ -93,6 +94,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
     * [by @karan](https://github.com/karan/Swift-Algorithms)
     * [by @jessesquires](https://github.com/jessesquires/swift-sorts)
     * [by @kingreza] (https://github.com/kingreza/Swift-Algorithms-Strings-) 
+    * [by @brynbellomy](https://github.com/brynbellomy/SwiftDataStructures)
 * Language agnostic
     * [by @kennyledet](https://github.com/kennyledet/Algorithm-Implementations)
     * [by @indy256](https://github.com/indy256/codelibrary)
