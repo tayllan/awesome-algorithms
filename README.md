@@ -67,6 +67,10 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 * [C++](https://github.com/xtaci/algorithms)
 * [Erlang](https://github.com/aggelgian/erlang-algorithms)
 * [Go](https://github.com/arnauddri/algorithms)
+* Haskell
+	* [by @ajtulloch](https://github.com/ajtulloch/haskell-ml)
+    * [by @derekmcloughlin](https://github.com/derekmcloughlin/pearls)
+    * [by @chris-taylor](https://github.com/chris-taylor/aima-haskell)
 * Java
     * [by @phishman3579](https://github.com/phishman3579/java-algorithms-implementation)
     * [by @asmolich](https://github.com/asmolich/algorithms)
