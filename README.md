@@ -13,7 +13,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 
 ## Websites
 
-* Websites you should use to learn classic algorithms. *
+_Websites you should use to learn classic algorithms._
 
 * [Wikipedia - Algorithms](http://en.wikipedia.org/wiki/List_of_algorithms) - Of course!!
 * [Wikipedia - Data Structures](http://en.wikipedia.org/wiki/List_of_data_structures) - and why not ?!!
@@ -24,7 +24,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 * [Algorithmist](http://www.algorithmist.com/index.php/Main_Page) - The Algorithmist is a resource dedicated to anything algorithms - from the practical realm, to the theoretical realm. There are also links and explanation to problemsets.
 * [Algomation](http://www.algomation.com/) - A didactic, animated, exposition of algorithms.
 
-* Visuals - these websites provide excellent algorithm visuals that you can use to follow along *
+_Visuals - these websites provide excellent algorithm visuals that you can use to follow along_
 
 * [VisuAlgo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html) - Visualising data structures and algorithms through animation.
 * [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualize the behavior of Data Structures and play with its operations.
