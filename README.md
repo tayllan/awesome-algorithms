@@ -13,24 +13,24 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 
 ## Websites
 
-*Websites you should use to learn classic algorithms*
-
+#### Websites you should use to learn classic algorithms. 
 * [Wikipedia - Algorithms](http://en.wikipedia.org/wiki/List_of_algorithms) - Of course!!
 * [Wikipedia - Data Structures](http://en.wikipedia.org/wiki/List_of_data_structures) - and why not ?!!
 * [Geeks for Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) -
     Lots and lots of well explained and implemented algorithms.
-* [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualize the behavior of Data Structures and play with its operations.
-* [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) - A dense article on Algorithms Visualization.
 * [Big-O Cheat Sheet](http://bigocheatsheet.com/) - Big-O complexities of common algorithms used in Computer Science.
 * [stoimen's web log](http://www.stoimen.com/blog/) - Some algorithms nicely explained.
-* [VisuAlgo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html) - Visualising data structures and algorithms through animation.
-* [Algomation](http://www.algomation.com/) - A didactic, animated, exposition of algorithms.
 * [Algorithmist](http://www.algorithmist.com/index.php/Main_Page) - The Algorithmist is a resource dedicated to anything algorithms - from the practical realm, to the theoretical realm. There are also links and explanation to problemsets.
+* [Algomation](http://www.algomation.com/) - A didactic, animated, exposition of algorithms.
+
+#### Visuals - these websites provide excellent visuals that you can use to follow along
+* [VisuAlgo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html) - Visualising data structures and algorithms through animation.
+* [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualize the behavior of Data Structures and play with its operations.
+* [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) - A dense article on Algorithms Visualization.
 
 ## Online Courses
 
-*Free and High Quality Courses Online*
-
+#### Free and High Quality Courses Online
 * [MIT - 6-00sc](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) -
     An easy and well explained introduction to algorithms.
 * [MIT - 6-006](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/) -
@@ -54,6 +54,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
 * [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) - The basic concepts and usages of data structures.
 * [Algorithms](http://algs4.cs.princeton.edu/home/) - Problems explained with Java, OO good practices, visualizations, and free online resources.
+* [Algorithms Unlocked](http://www.amazon.com/Algorithms-Unlocked-Thomas-H-Cormen/dp/0262518805)- a nice and easy to follow book on algorithms, well suited for an undergraduate course
 
 ## Github Libraries
 
