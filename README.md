@@ -15,23 +15,26 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
 
 ## Websites
 
-*Websites you should use to learn classic algorithms*
+_**Websites** you should use to learn classic algorithms._
 
 * [Wikipedia - Algorithms](http://en.wikipedia.org/wiki/List_of_algorithms) - Of course!!
 * [Wikipedia - Data Structures](http://en.wikipedia.org/wiki/List_of_data_structures) - and why not ?!!
 * [Geeks for Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) -
     Lots and lots of well explained and implemented algorithms.
-* [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualize the behavior of Data Structures and play with its operations.
-* [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) - A dense article on Algorithms Visualization.
 * [Big-O Cheat Sheet](http://bigocheatsheet.com/) - Big-O complexities of common algorithms used in Computer Science.
 * [stoimen's web log](http://www.stoimen.com/blog/) - Some algorithms nicely explained.
-* [VisuAlgo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html) - Visualising data structures and algorithms through animation.
-* [Algomation](http://www.algomation.com/) - A didactic, animated, exposition of algorithms.
 * [Algorithmist](http://www.algorithmist.com/index.php/Main_Page) - The Algorithmist is a resource dedicated to anything algorithms - from the practical realm, to the theoretical realm. There are also links and explanation to problemsets.
+* [Algomation](http://www.algomation.com/) - A didactic, animated, exposition of algorithms.
+
+_**Visuals** - these websites provide excellent algorithm visuals that you can use to follow along_
+
+* [VisuAlgo](http://www.comp.nus.edu.sg/~stevenha/visualization/index.html) - Visualising data structures and algorithms through animation.
+* [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualize the behavior of Data Structures and play with its operations.
+* [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) - A dense article on Algorithms Visualization.
 
 ## Online Courses
 
-*Free and High Quality Courses Online*
+_Free and High Quality Courses Online_
 
 * [MIT - 6-00sc](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) -
     An easy and well explained introduction to algorithms.
@@ -56,6 +59,7 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
 * [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) - The basic concepts and usages of data structures.
 * [Algorithms](http://algs4.cs.princeton.edu/home/) - Problems explained with Java, OO good practices, visualizations, and free online resources.
+* [Algorithms Unlocked](http://www.amazon.com/Algorithms-Unlocked-Thomas-H-Cormen/dp/0262518805)- a nice and easy to follow book on algorithms, well suited for an undergraduate course
 
 ## Github Libraries
 
@@ -70,6 +74,10 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
 * [C++](https://github.com/xtaci/algorithms)
 * [Erlang](https://github.com/aggelgian/erlang-algorithms)
 * [Go](https://github.com/arnauddri/algorithms)
+* Haskell
+	* [by @ajtulloch](https://github.com/ajtulloch/haskell-ml)
+    * [by @derekmcloughlin](https://github.com/derekmcloughlin/pearls)
+    * [by @chris-taylor](https://github.com/chris-taylor/aima-haskell)
 * Java
     * [by @phishman3579](https://github.com/phishman3579/java-algorithms-implementation)
     * [by @asmolich](https://github.com/asmolich/algorithms)
@@ -83,14 +91,27 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
     * [by @mgechev](https://github.com/mgechev/javascript-algorithms)
 * Objective-C
     * [by @ EvgenyKarkan](https://github.com/EvgenyKarkan/EKAlgorithms)
+    * [by @hartbit](https://github.com/hartbit/ObjectivePatterns)
+    * [by @prachigauriar](https://github.com/prachigauriar/RedBlack)
 * Python
     * [by @nryoung](https://github.com/nryoung/algorithms)
     * [by @prakhar1989](https://github.com/prakhar1989/Algorithms)
     * [by @laurentluce](https://github.com/laurentluce/python-algorithms)
-* [Ruby](https://github.com/kanwei/algorithms)
+    * [by @donnemartin](https://github.com/donnemartin/interactive-coding-challenges)
+    
+* Ruby
+	* [by @kanwei](https://github.com/kanwei/algorithms)
+    * [by @sagivo](https://github.com/sagivo/algorithms)
+    * [by @bvsatyaram](https://github.com/bvsatyaram/Ruby-Data-Structures)
+    * [by @Blahah](https://github.com/Blahah/datastructures)
+    * [by @evolve75](https://github.com/evolve75/RubyTree)
 * [Scala](https://github.com/vkostyukov/scalacaster)
 * Swift
+	* [by @waynewbishop](https://github.com/waynewbishop/SwiftStructures)
+    * [by @karan](https://github.com/karan/Swift-Algorithms)
+    * [by @jessesquires](https://github.com/jessesquires/swift-sorts)
     * [by @kingreza] (https://github.com/kingreza/Swift-Algorithms-Strings-) 
+    * [by @brynbellomy](https://github.com/brynbellomy/SwiftDataStructures)
 * Language agnostic
     * [by @kennyledet](https://github.com/kennyledet/Algorithm-Implementations)
     * [by @indy256](https://github.com/indy256/codelibrary)
