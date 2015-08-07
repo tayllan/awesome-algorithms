@@ -99,6 +99,9 @@ _Free and High Quality Courses Online_
 * Ruby
 	* [by @kanwei](https://github.com/kanwei/algorithms)
     * [by @sagivo](https://github.com/sagivo/algorithms)
+    * [by @bvsatyaram](https://github.com/bvsatyaram/Ruby-Data-Structures)
+    * [by @Blahah](https://github.com/Blahah/datastructures)
+    * [by @evolve75](https://github.com/evolve75/RubyTree)
 * [Scala](https://github.com/vkostyukov/scalacaster)
 * Swift
 	* [by @waynewbishop](https://github.com/waynewbishop/SwiftStructures)
