@@ -50,7 +50,7 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
 *The most highly regarded books to learn algorithms*
 
 * [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms) - Essential!
-* [The Algorithm Design Manual](http://www.algorist.com/) - Easy to read and full of real world examples.
+* [The Algorithm Design Manual](https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM) - Easy to read and full of real world examples.
 * [Algorithm Design](http://www.aw-bc.com/info/kleinberg/) - Pretty straight-forward.
 * [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - The Book.
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
