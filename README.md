@@ -87,7 +87,9 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
     * [by @nryoung](https://github.com/nryoung/algorithms)
     * [by @prakhar1989](https://github.com/prakhar1989/Algorithms)
     * [by @laurentluce](https://github.com/laurentluce/python-algorithms)
-* [Ruby](https://github.com/kanwei/algorithms)
+* Ruby
+    * [by @kanwei] (https://github.com/kanwei/algorithms)
+    * [by @sagivo] (https://github.com/sagivo/algorithms)
 * [Scala](https://github.com/vkostyukov/scalacaster)
 * Swift
     * [by @kingreza] (https://github.com/kingreza/Swift-Algorithms-Strings-) 
