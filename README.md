@@ -91,6 +91,7 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
 * [Scala](https://github.com/vkostyukov/scalacaster)
 * Swift
     * [by @kingreza] (https://github.com/kingreza/Swift-Algorithms-Strings-) 
+    * [by @waynewbishop] (https://github.com/waynewbishop/SwiftStructures)
 * Language agnostic
     * [by @kennyledet](https://github.com/kennyledet/Algorithm-Implementations)
     * [by @indy256](https://github.com/indy256/codelibrary)
