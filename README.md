@@ -99,6 +99,7 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
     * [by @kennyledet](https://github.com/kennyledet/Algorithm-Implementations)
     * [by @indy256](https://github.com/indy256/codelibrary)
     * [by @sagivo](https://github.com/sagivo/algorithms)
+    * [by @patmorin](https://github.com/patmorin/ods)
 
 ## Online Judges
 
