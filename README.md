@@ -92,6 +92,7 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
     * [by @kennyledet](https://github.com/kennyledet/Algorithm-Implementations)
     * [by @indy256](https://github.com/indy256/codelibrary)
     * [by @sagivo](https://github.com/sagivo/algorithms)
+    * [by @patmorin](https://github.com/patmorin/ods)
 
 ## Online Judges
 
