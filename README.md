@@ -29,6 +29,7 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
 * [Algomation](http://www.algomation.com/) - A didactic, animated, exposition of algorithms.
 * [Algorithmist](http://www.algorithmist.com/index.php/Main_Page) - The Algorithmist is a resource dedicated to anything algorithms - from the practical realm, to the theoretical realm. There are also links and explanation to problemsets.
 * [Learn Algorithms](http://www.learnalgorithms.in/) - A website that explains some algorithms very well and simply, even for the most novice of programmers. 
+* [How to sort](https://en.wikipedia.org/wiki/Bogosort) - Best sorting algorithm ever designed
 
 ## Online Courses
 
