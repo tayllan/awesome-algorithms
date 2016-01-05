@@ -118,6 +118,7 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
     More problems and monthly online contests.
 * [CodeMarshal](https://algo.codemarshal.com/) -
     Real world contests online!
+* [CoderByte](http://www.coderbyte.com/) - A decent website for algorithm challenges with JS, C, C++ support and more. Has tutorials too.
 * [ProjectEuler](http://projecteuler.net/) -
     Mathematical problems that can be solved using algorithms (or just a pencil, depends on how much you already know).
 * [TopCoder](http://www.topcoder.com/) - Lots of problems and real world/money worthy problems in Graphic Design, Data Science and Development.
