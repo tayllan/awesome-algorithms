@@ -96,6 +96,7 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
 * Swift
     * [by @kingreza] (https://github.com/kingreza/Swift-Algorithms-Strings-) 
     * [by @waynewbishop] (https://github.com/waynewbishop/SwiftStructures)
+    * [by @hollance](https://github.com/hollance/swift-algorithm-club)
 * Language agnostic
     * [by @kennyledet](https://github.com/kennyledet/Algorithm-Implementations)
     * [by @indy256](https://github.com/indy256/codelibrary)
