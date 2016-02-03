@@ -67,7 +67,6 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
 * [C](https://github.com/fragglet/c-algorithms)
 * [CoffeeScript](https://github.com/BrunoRB/algorithms.coffee)
 * C#
-    * [by @sorrentmutie](https://github.com/sorrentmutie/ClassicAlgorithms)
     * [by @shkolovy](https://github.com/shkolovy/classic-algorithms)
     * [by @aalhour](https://github.com/aalhour/C-Sharp-Algorithms)
 * [C++](https://github.com/xtaci/algorithms)
