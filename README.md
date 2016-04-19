@@ -93,6 +93,7 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
 * Ruby
     * [by @kanwei] (https://github.com/kanwei/algorithms)
     * [by @sagivo] (https://github.com/sagivo/algorithms)
+    * [by @kumar91gopi] (https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
 * [Scala](https://github.com/vkostyukov/scalacaster)
 * Swift
     * [by @kingreza] (https://github.com/kingreza/Swift-Algorithms-Strings-) 
