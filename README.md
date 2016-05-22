@@ -70,7 +70,9 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
 * C#
     * [by @shkolovy](https://github.com/shkolovy/classic-algorithms)
     * [by @aalhour](https://github.com/aalhour/C-Sharp-Algorithms)
-* [C++](https://github.com/xtaci/algorithms)
+* C++
+    * [by @xtaci](https://github.com/xtaci/algorithms)
+    * [by @PetarV-](https://github.com/PetarV-/Algorithms)
 * [Erlang](https://github.com/aggelgian/erlang-algorithms)
 * [Go](https://github.com/arnauddri/algorithms)
 * Java
