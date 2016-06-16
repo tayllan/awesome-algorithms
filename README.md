@@ -23,6 +23,7 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
     Lots and lots of well explained and implemented algorithms.
 * [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualize the behavior of Data Structures and play with its operations.
 * [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) - A dense article on Algorithms Visualization.
+* [A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/) - Interactive visualisations for learning how graph traversal algorithms work
 * [Big-O Cheat Sheet](http://bigocheatsheet.com/) - Big-O complexities of common algorithms used in Computer Science.
 * [stoimen's web log](http://www.stoimen.com/blog/) - Some algorithms nicely explained.
 * [VisuAlgo](http://visualgo.net) - Visualising data structures and algorithms through animation.
