@@ -63,6 +63,7 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
 * [Algorithms](http://algs4.cs.princeton.edu/home/) - Problems explained with Java, OO good practices, visualizations, and free online resources.
 * [Swift Algorithms & Data Structures](http://shop.waynewbishop.com/) - A practical guide to concepts, theory and code.
 * [Grokking Algorithms](http://www.manning.com/bhargava) - An illustrated book on algorithms with practical examples.
+* [Algorithms of the Intelligent Web, 2nd Ed.](https://www.manning.com/books/algorithms-of-the-intelligent-web-second-edition) - Predictive algorithms for developers. Real world examples in Python.
 
 ## Github Libraries
 
