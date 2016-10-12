@@ -141,6 +141,7 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
 * [Codeforces ](http://codeforces.com/) - The only programming contests Web 2.0 platform
 * [CoderByte](http://www.coderbyte.com/) - A decent website with algorithm challenges from beginner to advanced levels. Supports most of the popular languages like C++, python, javascript, ruby. 
 * [ShareCode.io ](https://sharecode.io/) - Online Judge and contest host with a lot of algorithmic problems in the archive to practice.
+* [Toph](https://toph.ws/) - Sport programming platform for online contests. It also has a growing problem archive.
 
 ## Tools
 
