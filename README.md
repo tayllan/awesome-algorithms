@@ -54,7 +54,7 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
 
 *The most highly regarded books to learn algorithms*
 
-* [Algorithm Design](http://www.aw-bc.com/info/kleinberg/) - Pretty straight-forward.
+* [Algorithm Design](https://www.pearsonhighered.com/program/Kleinberg-Algorithm-Design/PGM319216.html) - Pretty straight-forward.
 * [Algorithms](http://algs4.cs.princeton.edu/home/) - Problems explained with Java, OO good practices, visualizations, and free online resources.
 * [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) - The basic concepts and usages of data structures.
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
