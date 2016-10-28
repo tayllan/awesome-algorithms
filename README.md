@@ -142,6 +142,7 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
 * [CoderByte](http://www.coderbyte.com/) - A decent website with algorithm challenges from beginner to advanced levels. Supports most of the popular languages like C++, python, javascript, ruby. 
 * [ShareCode.io ](https://sharecode.io/) - Online Judge and contest host with a lot of algorithmic problems in the archive to practice.
 * [Toph](https://toph.ws/) - Sport programming platform for online contests. It also has a growing problem archive.
+* [USACO Training Program](http://train.usaco.org/usacogate) - Many algorithm problems and lessons for competitions like the ICO.
 
 ## Tools
 
