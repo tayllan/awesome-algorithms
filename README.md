@@ -122,6 +122,8 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
 * [Codeforces ](http://codeforces.com/) - The only programming contests Web 2.0 platform
 * [CodeMarshal](https://algo.codemarshal.org/) -
     Real world contests online!
+* [CodeWars](https://codewars.com/) -
+    A website that houses support to solve algorithms in many languages in varying difficulty.
 * [CoderByte](http://www.coderbyte.com/) - A decent website with algorithm challenges from beginner to advanced levels. Supports most of the popular languages like C++, python, javascript, ruby.
 * [HackerEarth ](https://www.hackerearth.com/) - Practice alogrithmic problems & challenges and participate in hiring challenges.
 * [HackerRank](https://www.hackerrank.com/) - Featured algorithm and functional programming online judges
