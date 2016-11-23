@@ -136,6 +136,7 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
     Mathematical problems that can be solved using algorithms (or just a pencil, depends on how much you already know).
 * [Rosalind](http://rosalind.info/problems/locations/) - A platform for learning bioinformatics and programming through problem solving.
 * [ShareCode.io ](https://sharecode.io/) - Online Judge and contest host with a lot of algorithmic problems in the archive to practice.
+* [Snakify](https://snakify.org/) - An introductory Python course with 100+ algorithmic problems and a step-by-step debugger (from Russia).
 * [SPOJ](http://www.spoj.com/) - More problems.
 * [TopCoder](https://www.topcoder.com/) - Lots of problems and real world/money worthy problems in Graphic Design, Data Science and Development.
 * [Toph](https://toph.ws/) - Sport programming platform for online contests. It also has a growing problem archive.
