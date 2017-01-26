@@ -37,8 +37,12 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
 
 *Free and High Quality Courses Online*
 
-* [Algorithms: Design and Analysis, Part 1](https://www.coursera.org/course/algo) - Course mainly based on the book "Introduction to Algorithm".
-* [Algorithms: Design and Analysis, Part 2](https://www.coursera.org/course/algo2) - Second part, focusing on Greedy and Dynamic paradigms, and NP-Complete problems.
+* [Algorithms: Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) - The primary topics are: asymptotic ("Big-oh") notation, sorting and searching, divide and conquer, and randomized algorithms.
+* [Algorithms: Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) - The primary topics are: data structures, graph primitives, and their applications.
+* [Algorithms: Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) - The primary topics are: greedy algorithms and dynamic programming.
+* [Algorithms: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) - The primary topics are: shortest paths, NP-completeness and what it means for the algorithm designer, and strategies for coping with computationally intractable problems.
+* [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1/home/welcome) - This course covers the essential information that every serious programmer needs to know about algorithms and data structures.Part I covers elementary data structures, sorting, and searching algorithms. 
+* [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) - Part II focuses on graph- and string-processing algorithms.
 * [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - Algorithm course ministred by Tomas Cormen and Devin Balkcom.
 * [MIT - 6-006](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/) -
     Well explained algorithms.
