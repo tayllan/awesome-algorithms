@@ -88,6 +88,7 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
     * [by @jeandersonbc](https://github.com/jeandersonbc/algorithms-and-ds)
     * [by @pedrovgs](https://github.com/pedrovgs/Algorithms)
     * [by @Erdos-Graph-Framework](https://github.com/Erdos-Graph-Framework/Erdos)
+    * [by @deepak-malik](https://github.com/deepak-malik/Data-Structures-In-Java)
 * JavaScript
     * [by @felipernb](https://github.com/felipernb/algorithms.js)
     * [by @nzakas](https://github.com/nzakas/computer-science-in-javascript)
