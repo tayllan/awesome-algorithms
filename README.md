@@ -103,13 +103,13 @@ If you want to contribute, please read the [contribution guidelines] (https://gi
     * [by @laurentluce](https://github.com/laurentluce/python-algorithms)
     * [by @nelson-brochado](https://github.com/nelson-brochado/ands)
 * Ruby
-    * [by @kanwei] (https://github.com/kanwei/algorithms)
-    * [by @sagivo] (https://github.com/sagivo/algorithms)
-    * [by @kumar91gopi] (https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
+    * [by @kanwei](https://github.com/kanwei/algorithms)
+    * [by @sagivo](https://github.com/sagivo/algorithms)
+    * [by @kumar91gopi](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
 * [Scala](https://github.com/vkostyukov/scalacaster)
 * Swift
-    * [by @kingreza] (https://github.com/kingreza/Swift-Algorithms-Strings-)
-    * [by @waynewbishop] (https://github.com/waynewbishop/SwiftStructures)
+    * [by @kingreza](https://github.com/kingreza/Swift-Algorithms-Strings-)
+    * [by @waynewbishop](https://github.com/waynewbishop/SwiftStructures)
     * [by @hollance](https://github.com/hollance/swift-algorithm-club)
 * Language agnostic
     * [by @kennyledet](https://github.com/kennyledet/Algorithm-Implementations)
