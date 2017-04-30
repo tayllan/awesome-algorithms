@@ -151,6 +151,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
     Brazilian Online Judge. Not so much problems, but it's growing and it has online contests.
 * [UVA](https://uva.onlinejudge.org/) -
     Hundreds of problems (from previous ACM-ICPC Regionals, World Finals and others).
+* [LightOJ](http://www.lightoj.com/) - Complete guidelines for practicing programming and problem solving skills. Lots of problems with categories. User can arrange own contests using own problems or problems from LightOJ volumes.
 
 ## Tools
 
