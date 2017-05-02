@@ -23,8 +23,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) - A dense article on Algorithms Visualization.
 * [Big-O Cheat Sheet](http://bigocheatsheet.com/) - Big-O complexities of common algorithms used in Computer Science.
 * [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualize the behavior of Data Structures and play with its operations.
-* [Geeks for Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) -
-    Lots and lots of well explained and implemented algorithms.
+* [Geeks for Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) - Lots and lots of well explained and implemented algorithms.
 * [Learn Algorithms](http://www.learnalgorithms.in/) - A website that explains some algorithms very well and simply, even for the most novice of programmers.
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) - A programming chrestomathy site which aims to present implementations of many algorithms and data structures in different programming languages.
 * [Sorting Algorithms](http://www.sorting-algorithms.com/) - Nice and simple animations of sorting algorithms. With short codes and discussions.
@@ -44,12 +43,9 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1/home/welcome) - This course covers the essential information that every serious programmer needs to know about algorithms and data structures.Part I covers elementary data structures, sorting, and searching algorithms. 
 * [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) - Part II focuses on graph- and string-processing algorithms.
 * [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - Algorithm course ministred by Tomas Cormen and Devin Balkcom.
-* [MIT - 6-006](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/) -
-    Well explained algorithms.
-* [MIT - 6-046j](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/) -
-    Similar to the previous one, but with different algorithms.
-* [MIT - 6-00sc](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) -
-    An easy and well explained introduction to algorithms.
+* [MIT - 6-006](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/) - Well explained algorithms.
+* [MIT - 6-046j](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/) - Similar to the previous one, but with different algorithms.
+* [MIT - 6-00sc](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) - An easy and well explained introduction to algorithms.
 * [Udacity Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215) - Python-based Algorithms course.
 * ~~[YogiBearian YouTube Channel](https://www.youtube.com/channel/UCv3Kd0guxD5KWQtP---9D6g) - Lots of well explained vidoes on various computer science subjects.~~ _Account terminated due to violations of Youtube Policies._
 
@@ -121,39 +117,31 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 *Online Judges to practice what you learned above*
 
-* [ACM-ICPC Live Archive](https://icpcarchive.ecs.baylor.edu/) -
-    Hundreds of problems from previous ACM-ICPC Regionals and World Finals.
+* [ACM-ICPC Live Archive](https://icpcarchive.ecs.baylor.edu/) - Hundreds of problems from previous ACM-ICPC Regionals and World Finals.
 * [AIZU ONLINE JUDGE](http://judge.u-aizu.ac.jp/onlinejudge/) - Japanese Online Judge.
-* [CS Academy](https://csacademy.com/) 
-    Holds online contests and IOI practice contests
-* [CodeChef](https://www.codechef.com/) -
-    More problems and monthly online contests.
+* [CS Academy](https://csacademy.com/) - Holds online contests and IOI practice contests
+* [CodeChef](https://www.codechef.com/) - More problems and monthly online contests.
 * [Codeforces ](http://codeforces.com/) - The only programming contests Web 2.0 platform
-* [CodeMarshal](https://algo.codemarshal.org/) -
-    Real world contests online!
-* [CodeWars](http://www.codewars.com/) -
-    A website that houses support to solve algorithms in many languages in varying difficulty.
+* [CodeMarshal](https://algo.codemarshal.org/) - Real world contests online!
+* [CodeWars](http://www.codewars.com/) - A website that houses support to solve algorithms in many languages in varying difficulty.
 * [CoderByte](http://www.coderbyte.com/) - A decent website with algorithm challenges from beginner to advanced levels. Supports most of the popular languages like C++, python, javascript, ruby.
 * [HackerEarth ](https://www.hackerearth.com/) - Practice alogrithmic problems & challenges and participate in hiring challenges.
 * [HackerRank](https://www.hackerrank.com/) - Featured algorithm and functional programming online judges
-* [Kattis](https://open.kattis.com/)- Online judge and problem archive
 * [Infoarena](http://www.infoarena.ro/) - Romanian Online Judge. 1500+ algorithmic problems
+* [Kattis](https://open.kattis.com/)- Online judge and problem archive
 * [LavidaOnlineJudge](http://judge.lavida.us) - Korean Online Judge(Half English). 1300+ problems.
 * [Learneroo Algorithms Tutorials](https://www.learneroo.com/subjects/8) - Learn and practice algorithms by solving challenges online.
 * [LeetCode](https://leetcode.com/) - Learn algorithms and prepare for interviews.
 * [PKU JudgeOnline](http://poj.org/) - Chinese Online Judge.
-* [ProjectEuler](https://projecteuler.net/) -
-    Mathematical problems that can be solved using algorithms (or just a pencil, depends on how much you already know).
+* [ProjectEuler](https://projecteuler.net/) - Mathematical problems that can be solved using algorithms (or just a pencil, depends on how much you already know).
 * [Rosalind](http://rosalind.info/problems/locations/) - A platform for learning bioinformatics and programming through problem solving.
 * [ShareCode.io ](https://sharecode.io/) - Online Judge and contest host with a lot of algorithmic problems in the archive to practice.
 * [Snakify](https://snakify.org/) - An introductory Python course with 100+ algorithmic problems and a step-by-step debugger (from Russia).
 * [SPOJ](http://www.spoj.com/) - More problems.
 * [TopCoder](https://www.topcoder.com/) - Lots of problems and real world/money worthy problems in Graphic Design, Data Science and Development.
 * [Toph](https://toph.ws/) - Sport programming platform for online contests. It also has a growing problem archive.
-* [URI](https://www.urionlinejudge.com.br/judge/login) -
-    Brazilian Online Judge. Not so much problems, but it's growing and it has online contests.
-* [UVA](https://uva.onlinejudge.org/) -
-    Hundreds of problems (from previous ACM-ICPC Regionals, World Finals and others).
+* [URI](https://www.urionlinejudge.com.br/judge/login) - Brazilian Online Judge. Not so much problems, but it's growing and it has online contests.
+* [UVA](https://uva.onlinejudge.org/) - Hundreds of problems (from previous ACM-ICPC Regionals, World Finals and others).
 
 ## Tools
 
