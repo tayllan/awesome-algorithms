@@ -136,6 +136,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [CoderByte](http://www.coderbyte.com/) - A decent website with algorithm challenges from beginner to advanced levels. Supports most of the popular languages like C++, python, javascript, ruby.
 * [HackerEarth ](https://www.hackerearth.com/) - Practice alogrithmic problems & challenges and participate in hiring challenges.
 * [HackerRank](https://www.hackerrank.com/) - Featured algorithm and functional programming online judges
+* [Kattis](https://open.kattis.com/)- Online judge and problem archive
 * [Infoarena](http://www.infoarena.ro/) - Romanian Online Judge. 1500+ algorithmic problems
 * [LavidaOnlineJudge](http://judge.lavida.us) - Korean Online Judge(Half English). 1300+ problems.
 * [Learneroo Algorithms Tutorials](https://www.learneroo.com/subjects/8) - Learn and practice algorithms by solving challenges online.
