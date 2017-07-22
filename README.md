@@ -148,8 +148,6 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 *Some tools that can help you in the learning of algorithms*
 
-* [flow-chart.js](http://brunorb.github.io/flow-chart.js/dist/index.html) -
-    A tool that allows you to create flowcharts that can simulate real algorithms.
 * [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (algorithms and data structures).
 
 ## License
