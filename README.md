@@ -80,6 +80,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Erlang](https://github.com/aggelgian/erlang-algorithms)
 * [Go](https://github.com/arnauddri/algorithms)
 * Java
+    * [by @jpa99](https://github.com/jpa99/Algorithms)
     * [by @phishman3579](https://github.com/phishman3579/java-algorithms-implementation)
     * [by @asmolich](https://github.com/asmolich/algorithms)
     * [by @psjava](https://github.com/psjava/psjava)
