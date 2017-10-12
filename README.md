@@ -22,6 +22,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Algorithm Visualizer](http://algo-visualizer.jasonpark.me/) - Dozens of animated algorithms (with code), and you can also create your own.
 * [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) - A dense article on Algorithms Visualization.
 * [Big-O Cheat Sheet](http://bigocheatsheet.com/) - Big-O complexities of common algorithms used in Computer Science.
+* [Code-Drills](https://code-drills.com/tools/comparator) - Practice problems recommender (includes Codeforces, Codechef and Spoj).
 * [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualize the behavior of Data Structures and play with its operations.
 * [Geeks for Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) - Lots and lots of well explained and implemented algorithms.
 * [Path Finding](https://qiao.github.io/PathFinding.js/visual/) - A visual representation on how algorithms such as A\*, IDA\*, Breadth-First-Search, Best-First-Search and others describe a path between two points A and B.
@@ -48,7 +49,6 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [MIT - 6-00sc](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) - An easy and well explained introduction to algorithms.
 * [Udacity Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215) - Python-based Algorithms course.
 * [Algorithms in Motion](https://www.manning.com/livevideo/algorithms-in-motion) - Beginner's algorithms course with fun illustrations, based on the book Grokking Algorithms
-* [Code-Drills](https://code-drills.com/tools/comparator) - Practice problems recommender (includes Codeforces, Codechef and Spoj) (see book below.)
 * ~~[YogiBearian YouTube Channel](https://www.youtube.com/channel/UCv3Kd0guxD5KWQtP---9D6g) - Lots of well explained vidoes on various computer science subjects.~~ _Account terminated due to violations of Youtube Policies._
 
 ## Books
