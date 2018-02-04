@@ -29,6 +29,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) - A programming chrestomathy site which aims to present implementations of many algorithms and data structures in different programming languages.
 * [Sorting Algorithms](http://www.sorting-algorithms.com/) - Nice and simple animations of sorting algorithms. With short codes and discussions.
 * [Stoimen's web log](http://www.stoimen.com/blog/) - Some algorithms nicely explained.
+* [The Sound of Sorting](http://panthema.net/2013/sound-of-sorting/) - The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms
 * [VisuAlgo](http://visualgo.net) - Visualising data structures and algorithms through animation.
 * [Wikipedia - Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms) - Of course!!
 * [Wikipedia - Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures) - and why not ?!!
