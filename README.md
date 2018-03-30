@@ -131,6 +131,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [CS Academy](https://csacademy.com/) - Holds online contests and IOI practice contests
 * [CodeChef](https://www.codechef.com/) - More problems and monthly online contests.
 * [Codeforces ](http://codeforces.com/) - The only programming contests Web 2.0 platform
+* [Codefights](https://codefights.com/) - Practive programming and tackle out your next tech interview
 * [CodeMarshal](https://algo.codemarshal.org/) - Real world contests online!
 * [CodeWars](http://www.codewars.com/) - A website that houses support to solve algorithms in many languages in varying difficulty.
 * [CoderByte](http://www.coderbyte.com/) - A decent website with algorithm challenges from beginner to advanced levels. Supports most of the popular languages like C++, python, javascript, ruby.
