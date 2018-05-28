@@ -105,6 +105,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
     * [by @prakhar1989](https://github.com/prakhar1989/Algorithms)
     * [by @laurentluce](https://github.com/laurentluce/python-algorithms)
     * [by @nbro](https://github.com/nbro/ands)
+    * [by @keon](https://github.com/keon/algorithms)
 * Ruby
     * [by @kanwei](https://github.com/kanwei/algorithms)
     * [by @sagivo](https://github.com/sagivo/algorithms)
