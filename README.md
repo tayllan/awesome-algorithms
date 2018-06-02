@@ -99,6 +99,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
     * [by @duereg](https://github.com/duereg/js-algorithms)
     * [by @mgechev](https://github.com/mgechev/javascript-algorithms)
     * [by @trekhleb](https://github.com/trekhleb/javascript-algorithms)
+    * [by @ManrajGrover](https://github.com/ManrajGrover/algorithms-js)
 * Objective-C
     * [by @ EvgenyKarkan](https://github.com/EvgenyKarkan/EKAlgorithms)
 * Python
