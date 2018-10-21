@@ -65,6 +65,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Swift Algorithms & Data Structures](http://shop.waynewbishop.com/) - A practical guide to concepts, theory and code.
 * [The Algorithm Design Manual](http://www.algorist.com/) - Easy to read and full of real world examples.
 * [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - The Book.
+* [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-second-edition)
 
 ## Github Libraries
 
