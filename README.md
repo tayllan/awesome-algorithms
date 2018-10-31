@@ -32,6 +32,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [The Sound of Sorting](http://panthema.net/2013/sound-of-sorting/) - The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms
 * [VisuAlgo](http://visualgo.net) - Visualising data structures and algorithms through animation.
 * [Wikipedia - Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms) - Of course!!
+* [CodCad](http://www.codcad.com) - CodCad has lessons for beginners that will ensure your solid learning in a simple way of your first steps in programming.
 * [Wikipedia - Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures) - and why not ?!!
 
 ## Online Courses
