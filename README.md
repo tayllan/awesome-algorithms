@@ -63,6 +63,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
 * [Grokking Algorithms](http://www.manning.com/bhargava) - An illustrated book on algorithms with practical examples.
 * [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms) - Essential!
+* [Math for Programmers](https://www.manning.com/books/math-for-programmers) - Solving mathematical problems in code.
 * [Swift Algorithms & Data Structures](http://shop.waynewbishop.com/) - A practical guide to concepts, theory and code.
 * [The Algorithm Design Manual](http://www.algorist.com/) - Easy to read and full of real world examples.
 * [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - The Book.
