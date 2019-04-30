@@ -102,6 +102,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
     * [by @mgechev](https://github.com/mgechev/javascript-algorithms)
     * [by @trekhleb](https://github.com/trekhleb/javascript-algorithms)
     * [by @ManrajGrover](https://github.com/ManrajGrover/algorithms-js)
+    * [by @amejiarosario](https://github.com/amejiarosario/dsa.js)
 * Objective-C
     * [by @ EvgenyKarkan](https://github.com/EvgenyKarkan/EKAlgorithms)
 * Python
