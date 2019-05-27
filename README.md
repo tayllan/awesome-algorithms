@@ -9,6 +9,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
     - [Websites](#websites)
     - [Online Courses](#online-courses)
     - [Books](#books)
+    - [Cheat Sheets](#cheat-sheets)
     - [Github Libraries](#github-libraries)
     - [Online Judges](#online-judges)
     - [Tools](#tools)
@@ -68,6 +69,13 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [The Algorithm Design Manual](http://www.algorist.com/) - Easy to read and full of real world examples.
 * [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - The Book.
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-second-edition)
+
+## Cheat Sheets
+* [The Technical Interview Cheat Sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
+* [Princeton DS Cheat Sheet](https://algs4.cs.princeton.edu/cheatsheet/)
+* [CLRS in short](https://sinon.org/algorithms//#data-structures)
+* [Rice university DS couse in short](https://www.clear.rice.edu/comp160/data1.html)
+* [Useful Reddit thread](https://www.reddit.com/r/learnprogramming/comments/3gpvyx/algorithms_and_data_structures_cheat_sheets/)
 
 ## Github Libraries
 
