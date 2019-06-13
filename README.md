@@ -83,6 +83,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
     * [by @xtaci](https://github.com/xtaci/algorithms)
     * [by @PetarV-](https://github.com/PetarV-/Algorithms)
     * [by @faheel](https://github.com/faheel/Algos)
+    * [by @sslotin](http://github.com/sslotin/algo)
 * [Erlang](https://github.com/aggelgian/erlang-algorithms)
 * [Go](https://github.com/arnauddri/algorithms)
 * Java
