@@ -160,6 +160,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [HackerRank](https://www.hackerrank.com/) - Featured algorithm and functional programming online judges
 * [HiHoCoder](http://hihocoder.com/) - Chinese and English problem solving practice and recruitment challenge site.
 * [Infoarena](http://www.infoarena.ro/) - Romanian Online Judge. 1500+ algorithmic problems
+* [Interviewbit](https://www.interviewbit.com/) - Learn, practice and prepare for interviews.
 * [Kattis](https://open.kattis.com/)- Online judge and problem archive
 * [LavidaOnlineJudge](http://judge.lavida.us) - Korean Online Judge(Half English). 1300+ problems.
 * [Learneroo Algorithms Tutorials](https://www.learneroo.com/subjects/8) - Learn and practice algorithms by solving challenges online.
