@@ -1,0 +1,457 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "BipedalWalker V-2",
+      "version": "0.3.2",
+      "provenance": [],
+      "collapsed_sections": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "accelerator": "GPU"
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/shariq101/Teaching-a-Bipedal-walker-using-ARS/blob/master/BipedalWalker_V_2.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "metadata": {
+        "id": "kJlFUlcrQk-3",
+        "colab_type": "text"
+      },
+      "cell_type": "markdown",
+      "source": [
+        "## TO GET STATRTED WITH BIPEDAL WALKER TUTORIAL,FIRST OF ALL LETS GET INTO HOW IT WORKS\n",
+        "\n"
+      ]
+    },
+    {
+      "metadata": {
+        "id": "jH_lEwH0RK8O",
+        "colab_type": "text"
+      },
+      "cell_type": "markdown",
+      "source": [
+        "#First of all install the certain dependencies that you will require while working in google Colab\n",
+        "\n",
+        "## There is a rendering problem in Colab as it runs in web browser so the *env.render()* will not work rather it will give you lots of error so we will by pass that error by storing our results in a video and after applying ARS, we will download it."
+      ]
+    },
+    {
+      "metadata": {
+        "id": "H18Dq-YjR7k7",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "cell_type": "code",
+      "source": [
+        "!pip install gym\n",
+        "!apt-get update\n",
+        "!apt-get -qq -y install xvfb freeglut3-dev ffmpeg> /dev/null\n",
+        "!apt-get install xvfb\n",
+        "!pip install pyvirtualdisplay\n",
+        "!pip -q install pyglet\n",
+        "!pip -q install pyopengl"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "metadata": {
+        "id": "ele16OgySLjR",
+        "colab_type": "text"
+      },
+      "cell_type": "markdown",
+      "source": [
+        "**BOX2D Let you use the bipedal agent and environment**\n",
+        "\n",
+        "**Pybullet is you key to physical simulations and a good alternative to MOJOCO which can cost you.**"
+      ]
+    },
+    {
+      "metadata": {
+        "id": "Eok_4dD9mFE0",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "cell_type": "code",
+      "source": [
+        "!apt-get install swig\n",
+        "!pip install box2d box2d-kengz\n",
+        "!pip install pybullet"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "metadata": {
+        "id": "8KjX9UtlSWKB",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "cell_type": "code",
+      "source": [
+        "# Start virtual display\n",
+        "from pyvirtualdisplay import Display\n",
+        "display = Display(visible=0, size=(1024, 768))\n",
+        "display.start()\n",
+        "import os\n",
+        "os.environ[\"DISPLAY\"] = \":\" + str(display.display) + \".\" + str(display.screen)"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "metadata": {
+        "id": "Q9UYPMYakrpL",
+        "colab_type": "text"
+      },
+      "cell_type": "markdown",
+      "source": [
+        "# Augmented Random Search"
+      ]
+    },
+    {
+      "metadata": {
+        "id": "Gr6qsIHCTBmz",
+        "colab_type": "text"
+      },
+      "cell_type": "markdown",
+      "source": [
+        "## Augmented Random Search(ARS) is actually up to 15 TIMES FASTER than other algorithms with higher rewards in specific applications! That’s insane!\n",
+        "### One of the ways, ARS is able to be so much faster is that unlike a lot of reinforcement learning algorithms that use deep learning with many hidden layers, augmented random search uses perceptrons! There are fewer weights to adjust and learn, but at the same time, ARS manages to get higher rewards in specific applications!\n"
+      ]
+    },
+    {
+      "metadata": {
+        "id": "Azjqd6JOVcy7",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "cell_type": "code",
+      "source": [
+        "import os\n",
+        "import numpy as np\n",
+        "import gym\n",
+        "from gym import wrappers"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "metadata": {
+        "id": "AzPOpcEyTLOs",
+        "colab_type": "text"
+      },
+      "cell_type": "markdown",
+      "source": [
+        "## *Here we declare a class to initialise hyper parameters involved in Bipedal*"
+      ]
+    },
+    {
+      "metadata": {
+        "id": "gRtzFlKFVpAb",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "cell_type": "code",
+      "source": [
+        "class HP():\n",
+        "    # Hyperparameters\n",
+        "    def __init__(self,\n",
+        "                 nb_steps=1000,\n",
+        "                 episode_length=2000,\n",
+        "                 learning_rate=0.02,\n",
+        "                 num_deltas=16,\n",
+        "                 num_best_deltas=16,\n",
+        "                 noise=0.03,\n",
+        "                 seed=1,\n",
+        "                 env_name='BipedalWalker-v2',\n",
+        "                 record_every=50):\n",
+        "\n",
+        "        self.nb_steps = nb_steps\n",
+        "        self.episode_length = episode_length\n",
+        "        self.learning_rate = learning_rate\n",
+        "        self.num_deltas = num_deltas\n",
+        "        self.num_best_deltas = num_best_deltas\n",
+        "        assert self.num_best_deltas <= self.num_deltas\n",
+        "        self.noise = noise\n",
+        "        self.seed = seed\n",
+        "        self.env_name = env_name\n",
+        "        self.record_every = record_every"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "metadata": {
+        "id": "__1HHlA3eTVy",
+        "colab_type": "text"
+      },
+      "cell_type": "markdown",
+      "source": [
+        "## Here we normalize the array of input and calculate the mean per observation and find out the difference in the mean"
+      ]
+    },
+    {
+      "metadata": {
+        "id": "qcwrRlAlVpI8",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "cell_type": "code",
+      "source": [
+        "class Normalizer():\n",
+        "    # Normalizes the inputs\n",
+        "    def __init__(self, nb_inputs):\n",
+        "        self.n = np.zeros(nb_inputs)\n",
+        "        self.mean = np.zeros(nb_inputs)\n",
+        "        self.mean_diff = np.zeros(nb_inputs)\n",
+        "        self.var = np.zeros(nb_inputs)\n",
+        "\n",
+        "    def observe(self, x):\n",
+        "        self.n += 1.0\n",
+        "        last_mean = self.mean.copy()\n",
+        "        self.mean += (x - self.mean) / self.n\n",
+        "        self.mean_diff += (x - last_mean) * (x - self.mean)\n",
+        "        self.var = (self.mean_diff / self.n).clip(min = 1e-2)\n",
+        "\n",
+        "    def normalize(self, inputs):\n",
+        "        obs_mean = self.mean\n",
+        "        obs_std = np.sqrt(self.var)\n",
+        "        return (inputs - obs_mean) / obs_std"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "metadata": {
+        "id": "fp4mvZGrpLmL",
+        "colab_type": "text"
+      },
+      "cell_type": "markdown",
+      "source": [
+        "## Pay attention to comments"
+      ]
+    },
+    {
+      "metadata": {
+        "id": "SAakK-txVpQR",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "cell_type": "code",
+      "source": [
+        "class Policy():\n",
+        "    def __init__(self, input_size, output_size, hp):\n",
+        "      #this creates a zero matrix of rows,column\n",
+        "        self.theta = np.zeros((output_size, input_size))\n",
+        "        self.hp = hp\n",
+        "\n",
+        "    def evaluate(self, input, delta = None, direction = None):\n",
+        "        if direction is None:\n",
+        "          #.dot is numpy function for dot product\n",
+        "            return self.theta.dot(input)\n",
+        "        elif direction == \"+\":\n",
+        "            return (self.theta + self.hp.noise * delta).dot(input)\n",
+        "        elif direction == \"-\":\n",
+        "            return (self.theta - self.hp.noise * delta).dot(input)\n",
+        "\n",
+        "    def sample_deltas(self):\n",
+        "        return [np.random.randn(*self.theta.shape) for _ in range(self.hp.num_deltas)]\n",
+        "#This code above here is super important \n",
+        "#This is how the weights are updated according to which configuration of weights led to the biggest reward\n",
+        "    def update(self, rollouts, sigma_rewards):\n",
+        "        # sigma_rewards is the standard deviation of the rewards\n",
+        "        step = np.zeros(self.theta.shape)\n",
+        "        for r_pos, r_neg, delta in rollouts:\n",
+        "            step += (r_pos - r_neg) * delta\n",
+        "        self.theta += self.hp.learning_rate / (self.hp.num_best_deltas * sigma_rewards) * step"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "metadata": {
+        "id": "DgzIRF71VxNm",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "cell_type": "code",
+      "source": [
+        "class ARSTrainer():\n",
+        "    def __init__(self,\n",
+        "                 hp=None,\n",
+        "                 input_size=None,\n",
+        "                 output_size=None,\n",
+        "                 normalizer=None,\n",
+        "                 policy=None,\n",
+        "                 monitor_dir=None):\n",
+        "\n",
+        "        self.hp = hp or HP()\n",
+        "        np.random.seed(self.hp.seed)\n",
+        "        self.env = gym.make(self.hp.env_name)\n",
+        "        if monitor_dir is not None:\n",
+        "            should_record = lambda i: self.record_video\n",
+        "            self.env = wrappers.Monitor(self.env, monitor_dir, video_callable=should_record, force=True)\n",
+        "        self.hp.episode_length = self.env.spec.timestep_limit or self.hp.episode_length\n",
+        "        self.input_size = input_size or self.env.observation_space.shape[0]\n",
+        "        self.output_size = output_size or self.env.action_space.shape[0]\n",
+        "        self.normalizer = normalizer or Normalizer(self.input_size)\n",
+        "        self.policy = policy or Policy(self.input_size, self.output_size, self.hp)\n",
+        "        self.record_video = False\n",
+        "\n",
+        "    # Explore the policy on one specific direction and over one episode\n",
+        "    def explore(self, direction=None, delta=None):\n",
+        "        state = self.env.reset()\n",
+        "        done = False\n",
+        "        num_plays = 0.0\n",
+        "        sum_rewards = 0.0\n",
+        "        while not done and num_plays < self.hp.episode_length:\n",
+        "            self.normalizer.observe(state)\n",
+        "            state = self.normalizer.normalize(state)\n",
+        "            action = self.policy.evaluate(state, delta, direction)\n",
+        "            state, reward, done, _ = self.env.step(action)\n",
+        "            reward = max(min(reward, 1), -1)\n",
+        "            sum_rewards += reward\n",
+        "            num_plays += 1\n",
+        "        return sum_rewards\n",
+        "\n",
+        "    def train(self):\n",
+        "        for step in range(self.hp.nb_steps):\n",
+        "            # initialize the random noise deltas and the positive/negative rewards\n",
+        "            deltas = self.policy.sample_deltas()\n",
+        "            positive_rewards = [0] * self.hp.num_deltas\n",
+        "            negative_rewards = [0] * self.hp.num_deltas\n",
+        "\n",
+        "            # play an episode each with positive deltas and negative deltas, collect rewards\n",
+        "            for k in range(self.hp.num_deltas):\n",
+        "                positive_rewards[k] = self.explore(direction=\"+\", delta=deltas[k])\n",
+        "                negative_rewards[k] = self.explore(direction=\"-\", delta=deltas[k])\n",
+        "                \n",
+        "            # Compute the standard deviation of all rewards\n",
+        "            sigma_rewards = np.array(positive_rewards + negative_rewards).std()\n",
+        "\n",
+        "            # Sort the rollouts by the max(r_pos, r_neg) and select the deltas with best rewards\n",
+        "            scores = {k:max(r_pos, r_neg) for k,(r_pos,r_neg) in enumerate(zip(positive_rewards, negative_rewards))}\n",
+        "            order = sorted(scores.keys(), key = lambda x:scores[x], reverse = True)[:self.hp.num_best_deltas]\n",
+        "            rollouts = [(positive_rewards[k], negative_rewards[k], deltas[k]) for k in order]\n",
+        "\n",
+        "            # Update the policy\n",
+        "            self.policy.update(rollouts, sigma_rewards)\n",
+        "\n",
+        "            # Only record video during evaluation, every n steps\n",
+        "            if step % self.hp.record_every == 0:\n",
+        "                self.record_video = True\n",
+        "            # Play an episode with the new weights and print the score\n",
+        "            reward_evaluation = self.explore()\n",
+        "            print('Step: ', step, 'Reward: ', reward_evaluation)\n",
+        "            self.record_video = False"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "metadata": {
+        "id": "p2aIv0lMV3_F",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "cell_type": "code",
+      "source": [
+        "def mkdir(base, name):\n",
+        "    path = os.path.join(base, name)\n",
+        "    if not os.path.exists(path):\n",
+        "        os.makedirs(path)\n",
+        "    return path"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "metadata": {
+        "id": "IVuDOFFVV9xZ",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "cell_type": "code",
+      "source": [
+        "ENV_NAME = 'BipedalWalker-v2'\n",
+        "\n",
+        "videos_dir = mkdir('.', 'videos')\n",
+        "monitor_dir = mkdir(videos_dir, ENV_NAME)\n",
+        "\n",
+        "hp = HP(env_name=ENV_NAME)\n",
+        "trainer = ARSTrainer(hp=hp, monitor_dir=monitor_dir)\n",
+        "trainer.train()"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "metadata": {
+        "id": "4C_waL3_lKXu",
+        "colab_type": "text"
+      },
+      "cell_type": "markdown",
+      "source": [
+        "# Download the episodes"
+      ]
+    },
+    {
+      "metadata": {
+        "id": "5xvR-vXbBLB1",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "cell_type": "code",
+      "source": [
+        "!ls videos/{ENV_NAME}"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "metadata": {
+        "id": "MYitauj1SePX",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "cell_type": "code",
+      "source": [
+        "from google.colab import files\n",
+        "import glob\n",
+        "\n",
+        "for file in glob.glob(\"videos/{}/openaigym.video.*.mp4\".format(ENV_NAME)):\n",
+        "  files.download(file)"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "metadata": {
+        "id": "YnGL_Nxwjld0",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "cell_type": "code",
+      "source": [
+        ""
+      ],
+      "execution_count": 0,
+      "outputs": []
+    }
+  ]
+}
