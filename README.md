@@ -174,6 +174,14 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [URI](https://www.urionlinejudge.com.br/judge/login) - Brazilian Online Judge. Not so much problems, but it's growing and it has online contests.
 * [UVA](https://uva.onlinejudge.org/) - Hundreds of problems (from previous ACM-ICPC Regionals, World Finals and others).
 
+## Blogs
+
+*Awesome list of blogs, mainly for competitive programming but you can refer to these when learning a new topic/algorithm*
+
+* [An awesome list for competitive programming!](https://codeforces.com/blog/entry/23054) - Awesome blog for all the resources and list of books and algorithms.
+* [Algorithms Weekly](https://petr-mitrichev.blogspot.com/) - A good blog by Petr Mitrichev, mainly in Java.
+* [Sport of Programming](https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/) - Really informative blog for starting with the sport of programming.
+* [Algorithms and Data Structures](http://www.allisons.org/ll/AlgDS/) - For getting deeper knowledge of algorithms and how to think in right direction.
 ## Tools
 
 *Some tools that can help you in the learning of algorithms*
