@@ -82,7 +82,8 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 *Implementations of the most classic algorithms in a wide variety of programming languages*
 
-* [C](https://github.com/fragglet/c-algorithms)
+* C
+    * [by @fragglet](https://github.com/fragglet/c-algorithms)
     * [by @TheAlgorithms](https://github.com/TheAlgorithms/C)
 * [CoffeeScript](https://github.com/BrunoRB/algorithms.coffee)
 * C#
@@ -188,4 +189,3 @@ And for the sake of copyleft, here's our license:
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-
