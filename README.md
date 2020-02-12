@@ -116,6 +116,8 @@ If you want to contribute, please read the [contribution guidelines](https://git
     * [by @ManrajGrover](https://github.com/ManrajGrover/algorithms-js)
     * [by @amejiarosario](https://github.com/amejiarosario/dsa.js)
     * [by @zonayedpca](https://github.com/zonayedpca/AlgoDS.js)
+* Lua
+    * [by @evandrolg](https://github.com/EvandroLG/computer_science_in_lua)
 * Objective-C
     * [by @ EvgenyKarkan](https://github.com/EvgenyKarkan/EKAlgorithms)
 * Python
