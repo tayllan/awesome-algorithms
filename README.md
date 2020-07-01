@@ -182,6 +182,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [TopCoder](https://www.topcoder.com/) - Lots of problems and real world/money worthy problems in Graphic Design, Data Science and Development.
 * [URI](https://www.urionlinejudge.com.br/judge/login) - Brazilian Online Judge. Not so much problems, but it's growing and it has online contests.
 * [UVA](https://uva.onlinejudge.org/) - Hundreds of problems (from previous ACM-ICPC Regionals, World Finals and others).
+* [Codility](https://www.codility.com/) - Compete to land coding jobs at top companies
 
 ## Blogs
 
