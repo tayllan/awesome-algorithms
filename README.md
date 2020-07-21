@@ -24,6 +24,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) - A dense article on Algorithms Visualization.
 * [Big-O Cheat Sheet](http://bigocheatsheet.com/) - Big-O complexities of common algorithms used in Computer Science.
 * [Code-Drills](https://code-drills.com/tools/comparator) - Practice problems recommender (includes Codeforces, Codechef and Spoj).
+* [CP-Algorithms](https://cp-algorithms.com/) - Algorithms and data structures especially popular in field of competitive programming.
 * [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualize the behavior of Data Structures and play with its operations.
 * [Geeks for Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) - Lots and lots of well explained and implemented algorithms.
 * [Path Finding](https://qiao.github.io/PathFinding.js/visual/) - A visual representation on how algorithms such as A\*, IDA\*, Breadth-First-Search, Best-First-Search and others describe a path between two points A and B.
