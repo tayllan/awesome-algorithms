@@ -131,6 +131,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
     * [by @laurentluce](https://github.com/laurentluce/python-algorithms)
     * [by @nbro](https://github.com/nbro/ands)
     * [by @keon](https://github.com/keon/algorithms)
+    * [by @vinta](https://github.com/vinta/fuck-coding-interviews)
 * Ruby
     * [by @kanwei](https://github.com/kanwei/algorithms)
     * [by @sagivo](https://github.com/sagivo/algorithms)
