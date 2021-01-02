@@ -145,6 +145,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
     * [by @indy256](https://github.com/indy256/codelibrary)
     * [by @sagivo](https://github.com/sagivo/algorithms)
     * [by @patmorin](https://github.com/patmorin/ods)
+    * [by @btjanaka](https://github.com/btjanaka/algorithm-problems)
 
 ## Online Judges
 
