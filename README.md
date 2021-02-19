@@ -57,7 +57,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 ## Books
 
 *The most highly regarded books to learn algorithms*
-
+### Algorithms and Data structures
 * [Algorithm Design](https://www.pearsonhighered.com/program/Kleinberg-Algorithm-Design/PGM319216.html) - Pretty straight-forward.
 * [Algorithms](http://algs4.cs.princeton.edu/home/) - Problems explained with Java, OO good practices, visualizations, and free online resources.
 * [Algorithms and Data Structures in JavaScript](https://gum.co/dsajs) - Classical algorithms and data structures implemented and explained using JavaScript.
@@ -73,6 +73,15 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - The Book.
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-second-edition)
 * [Algorithms and Data Structures in Action](https://www.manning.com/books/algorithms-and-data-structures-in-action) - A different and a great way to introduce algorithms and data structures that can be used at work.
+
+### Algorithm Analysis
+- [Sedgewick & Flajolet. An Introduction to the Analysis of Algorithm](https://www.amazon.com/Introduction-Analysis-Algorithms-Introdu-Algori_p2-ebook/dp/B00B3TB7IQ/ref=sr_1_1?dchild=1&keywords=an+introduction+to+the+analysis+of+algorithms&qid=1613753684&sr=8-1) - Am advanced complete survey, intended only for the mathematically matured reader.
+- [McConnell. Analysis of Algorithms](https://www.amazon.com/Analysis-Algorithms-Jeffrey-McConnell/dp/0763707821/ref=sr_1_1?dchild=1&keywords=mcconnell+analysis+of+algorithms&qid=1613753713&sr=8-1) - A very accessible and brief book on algorithms analysis, with implemented code included.
+- [Vrajitoru & Knight. Practical Analysis of Algorithms](https://www.amazon.com/Practical-Analysis-Algorithms-Undergraduate-Computer/dp/331909887X/ref=sr_1_1?dchild=1&keywords=practical+analysis+of+algorithms&qid=1613753733&sr=8-1) - A very accessible and brief book on algorithms analysis, with implemented code included.
+
+### Randomized Algorithms
+- [Motwani & Raghavan. Randomized Algorithms](https://www.amazon.com/Randomized-Algorithms-Rajeev-Motwani/dp/0521474655/ref=sr_1_2?dchild=1&keywords=randomized+algorithms&qid=1613753880&sr=8-2) - A standard classic book.
+- [Mitzenmacher & Upfal. Probability and Computing: Randomization and Probabilistic Techniques in Algorithms and Data Analysis](https://www.amazon.com/Probability-Computing-Randomization-Probabilistic-Techniques-ebook/dp/B06X9YBMFK/ref=pd_sim_2?pd_rd_w=23lFr&pf_rd_p=495b84a8-4624-4096-8e20-27b4882c0d09&pf_rd_r=BA80EYT6DSSVEP8MW0RJ&pd_rd_r=4a9c03ea-ad51-4ee0-89e8-7cabfede2f40&pd_rd_wg=K9Dj5&pd_rd_i=B06X9YBMFK&psc=1) - Standard text for probability methods and their applications on randomized algorithms.
 
 ## Cheat Sheets
 * [The Technical Interview Cheat Sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
