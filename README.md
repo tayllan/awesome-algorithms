@@ -195,6 +195,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Algorithms Weekly](https://petr-mitrichev.blogspot.com/) - A good blog by Petr Mitrichev, mainly in Java.
 * [Sport of Programming](https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/) - Really informative blog for starting with the sport of programming.
 * [Algorithms and Data Structures](http://www.allisons.org/ll/AlgDS/) - For getting deeper knowledge of algorithms and how to think in right direction.
+* [Algorithm Tutorials by Tanuj Khattar](https://tanujkhattar.wordpress.com/) - Excellent blog by Tanuj Khattar. Covers tutorials on some interesting data structures along with example problems to solve. 
 ## Tools
 
 *Some tools that can help you in the learning of algorithms*
