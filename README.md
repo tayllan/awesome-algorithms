@@ -20,7 +20,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 * [A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/) - Interactive visualisations for learning how graph traversal algorithms work
 * [Algomation](http://www.algomation.com/) - A didactic, animated, exposition of algorithms.
-* [W3School](https://www.w3schools.in/data-structures-tutorial/intro/) - Best for Data Structures and Algorithms.
+* [W3School](https://www.w3schools.in/data-structures-tutorial/intro/) - Data Structures tutorial.
 
 * [Algorithm Visualizer](http://algo-visualizer.jasonpark.me/) - Dozens of animated algorithms (with code), and you can also create your own.
 * [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) - A dense article on Algorithms Visualization.
@@ -60,8 +60,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 *The most highly regarded books to learn algorithms*
 
-
-* [Algorithm in a Nutshell](https://www.amazon.com/Algorithms-Nutshell-In-OReilly/dp/059651624X?tag=javamysqlanta-20) - by  George T. Heineman.
+* [Algorithms in a Nutshell](https://www.amazon.com/Algorithms-Nutshell-In-OReilly/dp/059651624X) - by  George T. Heineman.
 * [Algorithm Design](https://www.pearsonhighered.com/program/Kleinberg-Algorithm-Design/PGM319216.html) - Pretty straight-forward.
 * [Algorithms](http://algs4.cs.princeton.edu/home/) - Problems explained with Java, OO good practices, visualizations, and free online resources.
 * [Algorithms and Data Structures in JavaScript](https://gum.co/dsajs) - Classical algorithms and data structures implemented and explained using JavaScript.
