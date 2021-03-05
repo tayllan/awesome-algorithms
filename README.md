@@ -30,6 +30,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualize the behavior of Data Structures and play with its operations.
 * [Geeks for Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) - Lots and lots of well explained and implemented algorithms.
 * [Path Finding](https://qiao.github.io/PathFinding.js/visual/) - A visual representation on how algorithms such as A\*, IDA\*, Breadth-First-Search, Best-First-Search and others describe a path between two points A and B.
+* [Programiz](https://www.programiz.com/dsa) - Easy to follow tutorials on data structures and algorithms along with suitable examples.
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) - A programming chrestomathy site which aims to present implementations of many algorithms and data structures in different programming languages.
 * [Sorting Algorithms](http://www.sorting-algorithms.com/) - Nice and simple animations of sorting algorithms. With short codes and discussions.
 * [Stoimen's web log](http://www.stoimen.com/) - Some algorithms nicely explained.
@@ -60,10 +61,11 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 *The most highly regarded books to learn algorithms*
 
-* [Algorithms in a Nutshell](https://www.amazon.com/Algorithms-Nutshell-In-OReilly/dp/059651624X) - by  George T. Heineman.
+### Algorithms and Data structures
 * [Algorithm Design](https://www.pearsonhighered.com/program/Kleinberg-Algorithm-Design/PGM319216.html) - Pretty straight-forward.
 * [Algorithms](http://algs4.cs.princeton.edu/home/) - Problems explained with Java, OO good practices, visualizations, and free online resources.
 * [Algorithms and Data Structures in JavaScript](https://gum.co/dsajs) - Classical algorithms and data structures implemented and explained using JavaScript.
+* [Algorithms in a Nutshell](https://www.amazon.com/Algorithms-Nutshell-In-OReilly/dp/059651624X) - by  George T. Heineman.
 * [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python) -This great book presents dozens of coding challenges, ranging from simple tasks to clustering data using k-means.
 * [Data Structures and Algorithms Made Easy](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X) - A great way to implement algorithms with their specific programmable tasks.
 * [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) - The basic concepts and usages of data structures.
@@ -76,12 +78,22 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - The Book.
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-second-edition)
 * [Algorithms and Data Structures in Action](https://www.manning.com/books/algorithms-and-data-structures-in-action) - A different and a great way to introduce algorithms and data structures that can be used at work.
+* [Algorithmic Puzzles](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445) - A very accessible illustration of algorithms in forms of puzzles. No programming experience is required!
+
+### Algorithm Analysis
+- [Sedgewick & Flajolet. An Introduction to the Analysis of Algorithm](https://www.amazon.com/Introduction-Analysis-Algorithms-Introdu-Algori_p2-ebook/dp/B00B3TB7IQ) - Am advanced complete survey, intended only for the mathematically matured reader.
+- [McConnell. Analysis of Algorithms](https://www.amazon.com/Analysis-Algorithms-Jeffrey-McConnell/dp/0763707821) - A very accessible and brief book on algorithms analysis, with implemented code included.
+- [Vrajitoru & Knight. Practical Analysis of Algorithms](https://www.amazon.com/Practical-Analysis-Algorithms-Undergraduate-Computer/dp/331909887X) - A very accessible and brief book on algorithms analysis, with implemented code included.
+
+### Randomized Algorithms
+- [Motwani & Raghavan. Randomized Algorithms](https://www.amazon.com/Randomized-Algorithms-Rajeev-Motwani/dp/0521474655) - A standard classic book.
+- [Mitzenmacher & Upfal. Probability and Computing: Randomization and Probabilistic Techniques in Algorithms and Data Analysis](https://www.amazon.com/Probability-Computing-Randomization-Probabilistic-Techniques-ebook/dp/B06X9YBMFK) - Standard text for probability methods and their applications on randomized algorithms.
 
 ## Cheat Sheets
 * [The Technical Interview Cheat Sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
 * [Princeton DS Cheat Sheet](https://algs4.cs.princeton.edu/cheatsheet/)
 * [CLRS in short](https://sinon.org/algorithms//#data-structures)
-* [Rice university DS couse in short](https://www.clear.rice.edu/comp160/data1.html)
+* [Rice university DS course in short](https://www.clear.rice.edu/comp160/data1.html)
 * [Useful Reddit thread](https://www.reddit.com/r/learnprogramming/comments/3gpvyx/algorithms_and_data_structures_cheat_sheets/)
 * [Algo Deck](https://github.com/teivah/algodeck/) - An open-source collection of +200 algorithmic cards.
 
@@ -103,7 +115,9 @@ If you want to contribute, please read the [contribution guidelines](https://git
     * [by @faheel](https://github.com/faheel/Algos)
     * [by @sslotin](http://github.com/sslotin/algo)
 * [Erlang](https://github.com/aggelgian/erlang-algorithms)
-* [Go](https://github.com/arnauddri/algorithms)
+* Go
+    * [by @arnauddri](https://github.com/arnauddri/algorithms)
+    * [by @floyernick](https://github.com/floyernick/Data-Structures-and-Algorithms)
 * Java
     * [by @jpa99](https://github.com/jpa99/Algorithms)
     * [by @phishman3579](https://github.com/phishman3579/java-algorithms-implementation)
@@ -134,6 +148,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
     * [by @laurentluce](https://github.com/laurentluce/python-algorithms)
     * [by @nbro](https://github.com/nbro/ands)
     * [by @keon](https://github.com/keon/algorithms)
+    * [by @vinta](https://github.com/vinta/fuck-coding-interviews)
 * Ruby
     * [by @kanwei](https://github.com/kanwei/algorithms)
     * [by @sagivo](https://github.com/sagivo/algorithms)
@@ -148,6 +163,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
     * [by @indy256](https://github.com/indy256/codelibrary)
     * [by @sagivo](https://github.com/sagivo/algorithms)
     * [by @patmorin](https://github.com/patmorin/ods)
+    * [by @btjanaka](https://github.com/btjanaka/algorithm-problems)
 
 ## Online Judges
 
@@ -184,8 +200,10 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Snakify](https://snakify.org/) - An introductory Python course with 100+ algorithmic problems and a step-by-step debugger (from Russia).
 * [SPOJ](http://www.spoj.com/) - More problems.
 * [TopCoder](https://www.topcoder.com/) - Lots of problems and real world/money worthy problems in Graphic Design, Data Science and Development.
+* [Toph](https://toph.co/) - Bangladeshi Online Judge. Holds online contests on a regular basis.
 * [URI](https://www.urionlinejudge.com.br/judge/login) - Brazilian Online Judge. Not so much problems, but it's growing and it has online contests.
 * [UVA](https://uva.onlinejudge.org/) - Hundreds of problems (from previous ACM-ICPC Regionals, World Finals and others).
+* [Codility](https://app.codility.com/programmers/challenges/) - Compete to land coding jobs at top companies
 
 ## Blogs
 
@@ -195,6 +213,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Algorithms Weekly](https://petr-mitrichev.blogspot.com/) - A good blog by Petr Mitrichev, mainly in Java.
 * [Sport of Programming](https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/) - Really informative blog for starting with the sport of programming.
 * [Algorithms and Data Structures](http://www.allisons.org/ll/AlgDS/) - For getting deeper knowledge of algorithms and how to think in right direction.
+* [Algorithm Tutorials by Tanuj Khattar](https://tanujkhattar.wordpress.com/) - Excellent blog by Tanuj Khattar. Covers tutorials on some interesting data structures along with example problems to solve. 
 ## Tools
 
 *Some tools that can help you in the learning of algorithms*
