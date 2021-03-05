@@ -102,7 +102,9 @@ If you want to contribute, please read the [contribution guidelines](https://git
     * [by @faheel](https://github.com/faheel/Algos)
     * [by @sslotin](http://github.com/sslotin/algo)
 * [Erlang](https://github.com/aggelgian/erlang-algorithms)
-* [Go](https://github.com/arnauddri/algorithms)
+* Go
+    * [by @arnauddri](https://github.com/arnauddri/algorithms)
+    * [by @floyernick](https://github.com/floyernick/Data-Structures-and-Algorithms)
 * Java
     * [by @jpa99](https://github.com/jpa99/Algorithms)
     * [by @phishman3579](https://github.com/phishman3579/java-algorithms-implementation)
