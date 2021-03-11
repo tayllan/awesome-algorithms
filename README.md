@@ -54,6 +54,14 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 * [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) - The basic concepts and usages of data structures.
 * [Algorithms](http://algs4.cs.princeton.edu/home/) - Problems explained with Java, OO good practices, visualizations, and free online resources.
 
+## Games
+
+*Easy-to-play games that may speed up your assimilation of the algorithmic thinking*
+
+* SQL
+    * [SQL Police Department](https://sqlpd.com/)
+    * [SQL Murder Mystery](https://mystery.knightlab.com/) 
+
 ## Github Libraries
 
 *Implementations of the most classic algorithms in a wide variety of programming languages*
