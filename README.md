@@ -39,6 +39,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Wikipedia - Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms) - Of course!!
 * [Wikipedia - Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures) - and why not ?!!
 * [Learnersbucket](https://learnersbucket.com/) - Tutorials on data sturctures and algorithms in Javascript.
+* [redblobgames](https://www.redblobgames.com/) - interactive visual explanations of math and algorithms, using motivating examples from computer games.
 
 ## Online Courses
 
