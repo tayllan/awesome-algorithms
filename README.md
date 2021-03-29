@@ -19,7 +19,6 @@ If you want to contribute, please read the [contribution guidelines](https://git
 *Websites you should use to learn classic algorithms*
 
 * [A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/) - Interactive visualisations for learning how graph traversal algorithms work
-* [Algomation](http://www.algomation.com/) - A didactic, animated, exposition of algorithms.
 * [W3School](https://www.w3schools.in/data-structures-tutorial/intro/) - Data Structures tutorial.
 
 * [Algorithm Visualizer](http://algo-visualizer.jasonpark.me/) - Dozens of animated algorithms (with code), and you can also create your own.
