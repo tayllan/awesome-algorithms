@@ -129,6 +129,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
     * [by @Erdos-Graph-Framework](https://github.com/Erdos-Graph-Framework/Erdos)
     * [by @deepak-malik](https://github.com/deepak-malik/Data-Structures-In-Java)
     * [by @yusufcakal](https://github.com/yusufcakal/algorithms)
+    * [by @FarheenB](https://github.com/FarheenB/Data-Structures-and-Algorithms)
 * JavaScript
     * [by @jiayihu](https://github.com/jiayihu/pretty-algorithms)
     * [by @felipernb](https://github.com/felipernb/algorithms.js)
