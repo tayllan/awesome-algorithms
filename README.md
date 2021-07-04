@@ -144,6 +144,8 @@ If you want to contribute, please read the [contribution guidelines](https://git
     * [by @evandrolg](https://github.com/EvandroLG/computer_science_in_lua)
 * Objective-C
     * [by @ EvgenyKarkan](https://github.com/EvgenyKarkan/EKAlgorithms)
+* PHP
+    * [by @TheAlgorithms](https://github.com/TheAlgorithms/PHP)
 * Python
     * [by @nryoung](https://github.com/nryoung/algorithms)
     * [by @prakhar1989](https://github.com/prakhar1989/Algorithms)
