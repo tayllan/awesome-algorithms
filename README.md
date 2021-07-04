@@ -102,6 +102,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 *Implementations of the most classic algorithms in a wide variety of programming languages*
 
+* [AArch64 Assembly](https://github.com/TheAlgorithms/AArch64_Assembly)
 * C
     * [by @fragglet](https://github.com/fragglet/c-algorithms)
     * [by @TheAlgorithms](https://github.com/TheAlgorithms/C)
@@ -115,10 +116,17 @@ If you want to contribute, please read the [contribution guidelines](https://git
     * [by @PetarV-](https://github.com/PetarV-/Algorithms)
     * [by @faheel](https://github.com/faheel/Algos)
     * [by @sslotin](http://github.com/sslotin/algo)
+    * [by @TheAlgorithms](https://github.com/TheAlgorithms/C-Plus-Plus)
+* [Clojure](https://github.com/TheAlgorithms/Clojure)
+* [Dart](https://github.com/TheAlgorithms/Dart)
+* [Elixir](https://github.com/TheAlgorithms/Elixir)
+* [Elm](https://github.com/TheAlgorithms/Elm)
 * [Erlang](https://github.com/aggelgian/erlang-algorithms)
 * Go
     * [by @arnauddri](https://github.com/arnauddri/algorithms)
     * [by @floyernick](https://github.com/floyernick/Data-Structures-and-Algorithms)
+* [F-Sharp](https://github.com/TheAlgorithms/F-Sharp)
+* [Haskell](https://github.com/TheAlgorithms/Haskell)
 * Java
     * [by @jpa99](https://github.com/jpa99/Algorithms)
     * [by @phishman3579](https://github.com/phishman3579/java-algorithms-implementation)
@@ -140,10 +148,14 @@ If you want to contribute, please read the [contribution guidelines](https://git
     * [by @ManrajGrover](https://github.com/ManrajGrover/algorithms-js)
     * [by @amejiarosario](https://github.com/amejiarosario/dsa.js)
     * [by @zonayedpca](https://github.com/zonayedpca/AlgoDS.js)
+* [Julia](https://github.com/TheAlgorithms/Julia)
+* [Kotlin](https://github.com/TheAlgorithms/Kotlin)
 * Lua
     * [by @evandrolg](https://github.com/EvandroLG/computer_science_in_lua)
+* [MATLAB-Octave](https://github.com/TheAlgorithms/MATLAB-Octave)
 * Objective-C
     * [by @ EvgenyKarkan](https://github.com/EvgenyKarkan/EKAlgorithms)
+* [OCaml](https://github.com/TheAlgorithms/MATLAB-Octave)
 * PHP
     * [by @TheAlgorithms](https://github.com/TheAlgorithms/PHP)
 * Python
@@ -153,15 +165,18 @@ If you want to contribute, please read the [contribution guidelines](https://git
     * [by @nbro](https://github.com/nbro/ands)
     * [by @keon](https://github.com/keon/algorithms)
     * [by @vinta](https://github.com/vinta/fuck-coding-interviews)
+* [R](https://github.com/TheAlgorithms/MATLAB-Octave)
 * Ruby
     * [by @kanwei](https://github.com/kanwei/algorithms)
     * [by @sagivo](https://github.com/sagivo/algorithms)
     * [by @kumar91gopi](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
+* [Rust](https://github.com/TheAlgorithms/Rust)
 * [Scala](https://github.com/vkostyukov/scalacaster)
 * Swift
     * [by @kingreza](https://github.com/kingreza/Swift-Algorithms-Strings-)
     * [by @waynewbishop](https://github.com/waynewbishop/SwiftStructures)
     * [by @hollance](https://github.com/hollance/swift-algorithm-club)
+    * [by @TheAlgorithms](https://github.com/TheAlgorithms/Rust)
 * Language agnostic
     * [by @kennyledet](https://github.com/kennyledet/Algorithm-Implementations)
     * [by @indy256](https://github.com/indy256/codelibrary)
