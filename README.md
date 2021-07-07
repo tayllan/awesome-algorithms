@@ -218,11 +218,17 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Sport of Programming](https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/) - Really informative blog for starting with the sport of programming.
 * [Algorithms and Data Structures](http://www.allisons.org/ll/AlgDS/) - For getting deeper knowledge of algorithms and how to think in right direction.
 * [Algorithm Tutorials by Tanuj Khattar](https://tanujkhattar.wordpress.com/) - Excellent blog by Tanuj Khattar. Covers tutorials on some interesting data structures along with example problems to solve. 
+
 ## Tools
 
 *Some tools that can help you in the learning of algorithms*
 
 * [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (algorithms and data structures).
+
+## Related Awesome Lists
+- [Math](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
+- [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science/blob/main/README.md) - The interdisciplinary of Mathematics and Computer Science, Distinguished by its emphasis on mathemtical technique and rigour.
+
 
 ## License
 
