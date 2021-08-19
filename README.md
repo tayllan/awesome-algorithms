@@ -65,6 +65,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 ### Algorithms and Data structures
 * [Algorithm Design](https://www.pearsonhighered.com/program/Kleinberg-Algorithm-Design/PGM319216.html) - Pretty straight-forward.
 * [Algorithms](http://algs4.cs.princeton.edu/home/) - Problems explained with Java, OO good practices, visualizations, and free online resources.
+* [Algorithms and Data Structures for Massive Datasets](https://www.manning.com/books/algorithms-and-data-structures-for-massive-datasets) - Teaches you to take advantage of data processing and analytics techniques specifically designed for large distributed datasets.
 * [Algorithms and Data Structures in JavaScript](https://gum.co/dsajs) - Classical algorithms and data structures implemented and explained using JavaScript.
 * [Algorithms in a Nutshell](https://www.amazon.com/Algorithms-Nutshell-In-OReilly/dp/059651624X) - by  George T. Heineman.
 * [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python) -This great book presents dozens of coding challenges, ranging from simple tasks to clustering data using k-means.
