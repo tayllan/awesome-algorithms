@@ -63,6 +63,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 *The most highly regarded books to learn algorithms*
 
 ### Algorithms and Data structures
+* [Advanced Algorithms and Data Structures in Action](https://www.manning.com/books/algorithms-and-data-structures-in-action) - A different and a great way to introduce algorithms and data structures that can be used at work.
 * [Algorithm Design](https://www.pearsonhighered.com/program/Kleinberg-Algorithm-Design/PGM319216.html) - Pretty straight-forward.
 * [Algorithms](http://algs4.cs.princeton.edu/home/) - Problems explained with Java, OO good practices, visualizations, and free online resources.
 * [Algorithms and Data Structures for Massive Datasets](https://www.manning.com/books/algorithms-and-data-structures-for-massive-datasets) - Teaches you to take advantage of data processing and analytics techniques specifically designed for large distributed datasets.
@@ -72,6 +73,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Data Structures and Algorithms Made Easy](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X) - A great way to implement algorithms with their specific programmable tasks.
 * [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) - The basic concepts and usages of data structures.
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
+* [Graph Algorithms for Data Science](https://www.manning.com/books/graph-algorithms-for-data-science) - This book explores the most important algorithms and techniques for graphs in data science, with practical examples and concrete advice on implementation and deployment.
 * [Grokking Algorithms](http://www.manning.com/bhargava) - An illustrated book on algorithms with practical examples.
 * [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms) - Essential!
 * [Real World Algorithms: A Beginner's Guide](https://mitpress.mit.edu/books/real-world-algorithms) - An introduction to algorithms for readers with no background in advanced mathematics or computer science.
@@ -79,9 +81,8 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [The Algorithm Design Manual](http://www.algorist.com/) - Easy to read and full of real world examples.
 * [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - The Book.
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-second-edition)
-* [Advanced Algorithms and Data Structures in Action](https://www.manning.com/books/algorithms-and-data-structures-in-action) - A different and a great way to introduce algorithms and data structures that can be used at work.
 * [Algorithmic Puzzles](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445) - A very accessible illustration of algorithms in forms of puzzles. No programming experience is required!
-* [Algorithms and Data Structures for Massive Datasets](https://www.manning.com/books/algorithms-and-data-structures-for-massive-datasets) - A book that teaches you to take advantage of data processing and analytics techniques specifically designed for large distributed datasets.
+
 
 ### Algorithm Analysis
 - [Sedgewick & Flajolet. An Introduction to the Analysis of Algorithm](https://www.amazon.com/Introduction-Analysis-Algorithms-Introdu-Algori_p2-ebook/dp/B00B3TB7IQ) - Am advanced complete survey, intended only for the mathematically matured reader.
