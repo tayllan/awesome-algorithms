@@ -21,6 +21,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/) - Interactive visualisations for learning how graph traversal algorithms work
 * [W3School](https://www.w3schools.in/data-structures-tutorial/intro/) - Data Structures tutorial.
 * [CodeChef](https://www.codechef.com/LEARNDSA/) - Learning DSA by practice on Codechef
+* [Coding Mystery](https://codingmystery.com/) - Learn algorithms through escape-room inspired coding puzzles 
 * [Algorithm Visualizer](http://algo-visualizer.jasonpark.me/) - Dozens of animated algorithms (with code), and you can also create your own.
 * [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) - A dense article on Algorithms Visualization.
 * [Big-O Cheat Sheet](http://bigocheatsheet.com/) - Big-O complexities of common algorithms used in Computer Science.
