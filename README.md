@@ -58,6 +58,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Udacity Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215) - Python-based Algorithms course.
 * [Algorithms in Motion](https://www.manning.com/livevideo/algorithms-in-motion) - Beginner's algorithms course with fun illustrations, based on the book Grokking Algorithms
 * ~~[YogiBearian YouTube Channel](https://www.youtube.com/channel/UCv3Kd0guxD5KWQtP---9D6g) - Lots of well-explained videos on various computer science subjects.~~ _Account terminated due to violations of Youtube Policies._
+* [Truly Understanding Algorithms YouTube Channel](https://www.youtube.com/c/trulyunderstandingalgorithms) - A few short well-explained videos on fundamental sorting and searching algorithms.
 
 ## Books
 
