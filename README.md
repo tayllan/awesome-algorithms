@@ -19,6 +19,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 *Websites you should use to learn classic algorithms*
 
 * [A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/) - Interactive visualizations for learning how graph traversal algorithms work.
+* [Boot.dev Algorithms Track](https://boot.dev/tracks/algorithms-and-data-structures) - Interactive guided courses and follow along projects to learn algorithms in Python
 * [W3School](https://www.w3schools.in/data-structures-tutorial/intro/) - Data Structures tutorial.
 * [CodeChef](https://www.codechef.com/LEARNDSA/) - Learning DSA by practice on Codechef
 * [Algorithm Visualizer](http://algo-visualizer.jasonpark.me/) - Dozens of animated algorithms (with code), and you can also create your own.
@@ -180,6 +181,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Algo Muse](http://www.algomuse.appspot.com) - Research-based algorithmic problems. 
 * [AtCoder](https://atcoder.jp/) - Japanese programming contest website.
 * [Baekjoon Online Judge](https://www.acmicpc.net/) - Korean Online Judge. 10000+ problems. Supports 60+ languages.
+* [Boot.dev](https://boot.dev) - In-browser code verification for algorithms and data structures courses
 * [CS Academy](https://csacademy.com/) - Holds online contests and IOI practice contests
 * [CodeChef](https://www.codechef.com/) - More problems and monthly online contests.
 * [Codeforces ](http://codeforces.com/) - The only programming contests Web 2.0 platform
