@@ -39,6 +39,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Wikipedia - Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures) - and why not ?!!
 * [Learnersbucket](https://learnersbucket.com/) - Tutorials on data structures and algorithms in Javascript.
 * [redblobgames](https://www.redblobgames.com/) - interactive visual explanations of math and algorithms, using motivating examples from computer games.
+* [Scaler Topics](https://www.scaler.com/topics/data-structures/) - Step by Step DSA tutorial for beginners with examples.  
 
 ## Online Courses
 
