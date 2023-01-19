@@ -209,6 +209,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [URI](https://www.urionlinejudge.com.br/judge/login) - Brazilian Online Judge. Not so many problems, but it's growing and it has online contests.
 * [UVA](https://uva.onlinejudge.org/) - Hundreds of problems (from previous ACM-ICPC Regionals, World Finals, and others).
 * [Codility](https://app.codility.com/programmers/challenges/) - Compete to land coding jobs at top companies
+* [Adaface](https://www.adaface.com/) - Practice coding challenge in 35+ programming languages.
 
 ## Blogs
 
