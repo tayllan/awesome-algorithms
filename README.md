@@ -75,6 +75,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
 * [Graph Algorithms for Data Science](https://www.manning.com/books/graph-algorithms-for-data-science) - This book explores the most important algorithms and techniques for graphs in data science, with practical examples and concrete advice on implementation and deployment.
 * [Grokking Algorithms](http://www.manning.com/bhargava) - An illustrated book on algorithms with practical examples.
+* [Grokking Algorithms, Second Edition](https://www.manning.com/books/grokking-algorithms-second-edition) - This revised second edition contains brand new coverage of trees, including binary search trees, balanced trees, B-trees and more.
 * [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms) - Essential!
 * [Real World Algorithms: A Beginner's Guide](https://mitpress.mit.edu/books/real-world-algorithms) - An introduction to algorithms for readers with no background in advanced mathematics or computer science.
 * [Swift Algorithms & Data Structures](http://shop.waynewbishop.com/) - A practical guide to concepts, theory and code.
