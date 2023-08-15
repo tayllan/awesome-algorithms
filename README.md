@@ -238,6 +238,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 *Some tools that can help you in the learning of algorithms*
 
 * [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (algorithms and data structures).
+* [Synthical](https://synthical.com) - AI-powered collaborative research environment. You can use it to get recommendations of articles based on reading history, simplify papers, find out what articles are trending, search articles by meaning (not just keywords), create and share folders of articles, see lists of articles from specific companies and universities, and so on.
 
 ## Related Awesome Lists
 - [Math](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
