@@ -104,7 +104,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Mitzenmacher & Upfal. Probability and Computing: Randomization and Probabilistic Techniques in Algorithms and Data Analysis](https://www.amazon.com/Probability-Computing-Randomization-Probabilistic-Techniques-ebook/dp/B06X9YBMFK) - Standard text for probability methods and their applications on randomized algorithms.
 
 ## Cheat Sheets
-* [The Technical Interview Cheat Sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
+* [Tech Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
 * [Princeton DS Cheat Sheet](https://algs4.cs.princeton.edu/cheatsheet/)
 * [CLRS in short](https://sinon.org/algorithms//#data-structures)
 * [Rice university DS course in short](https://www.clear.rice.edu/comp160/data1.html)
