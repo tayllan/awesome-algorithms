@@ -30,6 +30,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualize the behavior of Data Structures and play with its operations.
 * [Geeks for Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) - Lots and lots of well-explained and implemented algorithms.
 * [Path Finding](https://qiao.github.io/PathFinding.js/visual/) - A visual representation of how algorithms such as A\*, IDA\*, Breadth-First-Search, Best-First-Search, and others describe a path between two points A and B.
+* [Programiz PRO](https://programiz.pro/) - A platform that offers structured, in-depth, curated learning path -- DSA: A Complete Roadmap Using Python with hands-on practice for learners.
 * [Programiz](https://www.programiz.com/dsa) - Easy to follow tutorials on data structures and algorithms along with suitable examples.
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) - A programming chrestomathy site that aims to present implementations of many algorithms and data structures in different programming languages.
 * [Sorting Algorithms](http://www.sorting-algorithms.com/) - Nice and simple animations of sorting algorithms. With short codes and discussions.
