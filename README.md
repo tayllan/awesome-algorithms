@@ -54,13 +54,13 @@ If you want to contribute, please read the [contribution guidelines](https://git
 ## Online Courses
 
 *Free and High-Quality Courses Online*
-
 * [Algorithms: Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) - The primary topics are: asymptotic ("Big-oh") notation, sorting and searching, divide and conquer, and randomized algorithms.
 * [Algorithms: Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) - The primary topics are: data structures, graph primitives, and their applications.
 * [Algorithms: Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) - The primary topics are: greedy algorithms and dynamic programming.
 * [Algorithms: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) - The primary topics are: shortest paths, NP-completeness and what it means for the algorithm designer, and strategies for coping with computationally intractable problems.
 * [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1/home/welcome) - This course covers the essential information that every serious programmer needs to know about algorithms and data structures. Part I covers elementary data structures, sorting, and searching algorithms. 
 * [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) - Part II focuses on graph- and string-processing algorithms.
+* [Learn Algorithms: Programiz PRO] (https://programiz.pro/learn/master-dsa-with-python) - Beginner-friendly platform for interactive coding, algorithms, and interview prep.
 * [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - Algorithm course ministered by Tomas Cormen and Devin Balkcom.
 * [MIT - 6-006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/video_galleries/lecture-videos/) - Well explained algorithms.
 * [MIT - 6-046j](https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video_galleries/video-lectures/) - Similar to the previous one, but with different algorithms.
