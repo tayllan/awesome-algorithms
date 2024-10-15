@@ -189,10 +189,11 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 * [A2 Online Judge](https://a2oj.com/) - Online Judge and problem archive.
 * [ACM-ICPC Live Archive](https://icpcarchive.ecs.baylor.edu/) - Hundreds of problems from previous ACM-ICPC Regionals and World Finals.
-* [AIZU ONLINE JUDGE](http://judge.u-aizu.ac.jp/onlinejudge/) - Japanese Online Judge.
+* [AIZU ONLINE JUDGE](https://onlinejudge.u-aizu.ac.jp/) - A Japanese online judge from the University of Aizu, offering a wide range of algorithmic challenges.
 * [Algo Muse](http://www.algomuse.appspot.com) - Research-based algorithmic problems. 
 * [AtCoder](https://atcoder.jp/) - Japanese programming contest website.
 * [Baekjoon Online Judge](https://www.acmicpc.net/) - Korean Online Judge. 10000+ problems. Supports 60+ languages.
+* [Beecrowd](https://judge.beecrowd.com/) - The Largest Competitive Programming and Online Code Judgement Platform in Latin America.
 * [CS Academy](https://csacademy.com/) - Holds online contests and IOI practice contests
 * [CodeChef](https://www.codechef.com/) - More problems and monthly online contests.
 * [Codeforces ](http://codeforces.com/) - The only programming contests Web 2.0 platform
@@ -211,6 +212,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [LavidaOnlineJudge](http://judge.lavida.us) - Korean Online Judge(Half English). 1300+ problems.
 * [Learneroo Algorithms Tutorials](https://www.learneroo.com/subjects/8) - Learn and practice algorithms by solving challenges online.
 * [LeetCode](https://leetcode.com/) - Learn algorithms and prepare for interviews.
+* [Paiza](https://paiza.jp/) - A Japanese platform offering coding challenges and career preparation.
 * [PKU JudgeOnline](http://poj.org/) - Chinese Online Judge.
 * [ProjectEuler](https://projecteuler.net/) - Mathematical problems that can be solved using algorithms (or just a pencil, depending on how much you already know).
 * [Rosalind](http://rosalind.info/problems/locations/) - A platform for learning bioinformatics and programming through problem-solving.
