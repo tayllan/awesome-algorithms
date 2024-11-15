@@ -14,6 +14,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
     - [Github Libraries](#github-libraries)
     - [Online Judges](#online-judges)
     - [Tools](#tools)
+    - [Mobile Apps](#mobile-apps)
 
 ## Websites
 
@@ -241,6 +242,14 @@ If you want to contribute, please read the [contribution guidelines](https://git
 *Some tools that can help you in the learning of algorithms*
 
 * [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (algorithms and data structures).
+
+## Mobile Apps
+
+*Some apps to help you accelerate your learning process and grasp the concepts easily*
+
+* [DSA Visualizer (iOS)](https://apps.apple.com/us/app/dsa-visualizer/id1484525469)
+* [Data Structures and Algorithms (Android)](https://play.google.com/store/apps/details?id=com.iov.lordofalgorithms&hl=en)
+
 
 ## Related Awesome Lists
 - [Math](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
