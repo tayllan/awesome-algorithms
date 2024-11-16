@@ -11,7 +11,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
     - [Online Courses](#online-courses)
     - [Books](#books)
     - [Cheat Sheets](#cheat-sheets)
-    - [Dictionary](#Dictionaries)
+    - [Dictionaries](#Dictionaries)
     - [Github Libraries](#github-libraries)
     - [Online Judges](#online-judges)
     - [Tools](#tools)
