@@ -40,6 +40,8 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Wikipedia - Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures) - and why not ?!!
 * [Learnersbucket](https://learnersbucket.com/) - Tutorials on data structures and algorithms in Javascript.
 * [redblobgames](https://www.redblobgames.com/) - interactive visual explanations of math and algorithms, using motivating examples from computer games.
+* [Asecuritysite.com](https://asecuritysite.com) - A nice collection of crypto-related algorithms with code samples and visual explanations
+* [Cryptohack](https://cryptohack.org) - A CTF-like free platform to learn cryptography with practical tasks
 
 ## Youtube Playlists
 
