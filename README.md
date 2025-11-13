@@ -61,6 +61,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 ### AI
 
 * [Grokking AI Algorithms, Second Edition](https://www.manning.com/books/grokking-ai-algorithms-second-edition) - A book that teaches the theory behind AI with beautifully simple illustrations, step-by-step pseudocode, and intuitive explanations that make the math simple.
+* [Timeless Algorithms](https://www.manning.com/books/timeless-algorithms) - A book that explores the breakthrough algorithms that power modern AI
 
 ### Other
 
