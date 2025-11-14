@@ -6,13 +6,12 @@ Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomenes
 If you want to contribute, please read the [contribution guidelines](https://github.com/tayllan/awesome-algorithms/blob/master/CONTRIBUTING.md).
 
 - [Awesome Algorithms](#awesome-algorithms)
-    - [Beginner-Friendly Resources](#beginner-friendly-resources)
+    - [Beginner-Friendly](#beginner-friendly)
     - [Theory & Fundamentals](#theory--fundamentals)
-    - [Practical Learning & Visualization](#practical-learning--visualization)
-    - [Engineering & Advanced Topics](#engineering--advanced-topics)
-    - [Reference & Cheat Sheets](#reference--cheat-sheets)
-    - [Practice & Coding Challenges](#practice--coding-challenges)
-    - [Related Awesome Lists](#related-awesome-lists)
+    - [Programming Contest](#programming-contest)
+    - [Special Topic](#special-topic)
+    - [Cheat Sheet](#cheat-sheet)
+    - [Related Awesome List](#related-awesome-list)
 
 ## Beginner-Friendly
 
@@ -68,7 +67,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Algorithms Weekly](https://petr-mitrichev.blogspot.com/) - A good blog by Petr Mitrichev, mainly in Java.
 * [Algorithm Tutorials by Tanuj Khattar](https://tanujkhattar.wordpress.com/) - Excellent blog by Tanuj Khattar. Covers tutorials on some interesting data structures along with example problems to solve.
 
-## Special Topics
+## Special Topic
 * [Grokking AI Algorithms, Second Edition](https://www.manning.com/books/grokking-ai-algorithms-second-edition) - A book that teaches the theory behind AI with beautifully simple illustrations, step-by-step pseudocode, and intuitive explanations that make the math simple.
 * [Fabulous Adventures in Data Structures and Algorithms](https://www.manning.com/books/fabulous-adventures-in-data-structures-and-algorithms) - It teaches lesser-known algorithmic approaches like immutable data structures—stacks, queues, deques, and unusual constructions like Hughes lists.
 
