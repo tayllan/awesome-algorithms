@@ -37,7 +37,6 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/) - Standard classic for anyone.
 * [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - Knuth's classic.
 * [The Algorithm Design Manual](http://www.algorist.com/) - Easy to read and full of real-world examples.
-* [Standford CS166](https://web.stanford.edu/class/cs166/) - Standford CS166, a course in the design, analysis, and implementation of data structures.
 
 ### Online Course
 * [MIT - 6-006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/video_galleries/lecture-videos/) - Well explained algorithms.
