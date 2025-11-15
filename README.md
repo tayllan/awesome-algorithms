@@ -7,8 +7,10 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 - [Awesome Algorithms](#awesome-algorithms)
     - [Beginner-Friendly](#beginner-friendly)
-    - [Theory & Fundamentals](#theory--fundamentals)
     - [Programming Contest](#programming-contest)
+    - [Theory & Fundamentals](#theory--fundamentals)
+    - [Production System](#production-system)
+    - [Database](#database)
     - [Special Topic](#special-topic)
     - [Cheat Sheet](#cheat-sheet)
     - [Related Awesome List](#related-awesome-list)
