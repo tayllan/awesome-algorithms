@@ -30,21 +30,6 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [VisuAlgo](http://visualgo.net) - Visualising data structures and algorithms through animation.
 * [redblobgames](https://www.redblobgames.com/) - interactive visual explanations of math and algorithms, using motivating examples from computer games.
 
-## Theory & Fundamentals
-
-### Book
-* [Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/) - Standard classic for anyone.
-* [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - Knuth's classic.
-* [The Algorithm Design Manual](http://www.algorist.com/) - Easy to read and full of real-world examples.
-
-### Online Course
-* [MIT - 6-006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/video_galleries/lecture-videos/) - Well explained algorithms.
-* [MIT - 6-046j](https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video_galleries/video-lectures/) - Similar to the previous one, but with different algorithms.
-* [MIT - 6-00sc](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) - An easy and well-explained introduction to algorithms.
-
-### YouTube Playlist
-* [Tim Roughgarden. Algorithms Illuminated](https://www.algorithmsilluminated.org/) - Tim Roughgarden, a pioneer of computer science, offers a companion to his book, with lecture videos and slides.
-
 ## Programming Contest
 
 ### Website
@@ -67,8 +52,32 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Algorithms Weekly](https://petr-mitrichev.blogspot.com/) - A good blog by Petr Mitrichev, mainly in Java.
 * [Algorithm Tutorials by Tanuj Khattar](https://tanujkhattar.wordpress.com/) - Excellent blog by Tanuj Khattar. Covers tutorials on some interesting data structures along with example problems to solve.
 
+## Theory & Fundamentals
+
+### Book
+* [Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/) - Standard classic for anyone.
+* [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - Knuth's classic.
+* [The Algorithm Design Manual](http://www.algorist.com/) - Easy to read and full of real-world examples.
+
+### Online Course
+* [MIT - 6-006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/video_galleries/lecture-videos/) - Well explained algorithms.
+* [MIT - 6-046j](https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video_galleries/video-lectures/) - Similar to the previous one, but with different algorithms.
+* [MIT - 6-00sc](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) - An easy and well-explained introduction to algorithms.
+
+### YouTube Playlist
+* [Tim Roughgarden. Algorithms Illuminated](https://www.algorithmsilluminated.org/) - Tim Roughgarden, a pioneer of computer science, offers a companion to his book, with lecture videos and slides.
+
+## Production System
+
+* [Performance Engineering of Software Systems. MIT OCW](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/) - A hands-on, project-based introduction to building scalable and high-performance software systems. Topics include performance analysis, algorithmic techniques for high performance, instruction-level optimizations, and caching optimizations.
+* [Cloud and Distributed Computing: Algorithms and Systems by Misra & Patel](https://www.wileyindia.com/cloud-and-distributed-computing-algorithms-and-systems.html) - It teaches the internals of cloud computing and how concepts of distributed systems work inside clouds.
+
+## Database
+
+* [PostgreSQL Query Optimization: The Ultimate Guide to Building Efficient Queries](https://www.oreilly.com/library/view/postgresql-query-optimization/9781484268858/) - It introduces different classes of queries and optimization techniques suitable to each, such as the use of indexes and specific join algorithms.
+
 ## Special Topic
-* [Grokking AI Algorithms, Second Edition](https://www.manning.com/books/grokking-ai-algorithms-second-edition) - A book that teaches the theory behind AI with beautifully simple illustrations, step-by-step pseudocode, and intuitive explanations that make the math simple.
+
 * [Fabulous Adventures in Data Structures and Algorithms](https://www.manning.com/books/fabulous-adventures-in-data-structures-and-algorithms) - It teaches lesser-known algorithmic approaches like immutable data structures—stacks, queues, deques, and unusual constructions like Hughes lists.
 
 ## Cheat Sheet
@@ -77,7 +86,6 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Princeton DS Cheat Sheet](https://algs4.cs.princeton.edu/cheatsheet/)
 * [CLRS in short](https://sinon.org/algorithms//#data-structures)
 * [Rice university DS course in short](https://www.clear.rice.edu/comp160/data1.html)
-* [Useful Reddit thread](https://www.reddit.com/r/learnprogramming/comments/3gpvyx/algorithms_and_data_structures_cheat_sheets/)
 * [Algo Deck](https://github.com/teivah/algodeck/) - An open-source collection of +200 algorithmic cards.
 
 ## Related Awesome List
