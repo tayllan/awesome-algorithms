@@ -28,9 +28,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Levitin. Introduction to Algorithms](https://www.amazon.com/Introduction-Design-Analysis-Algorithms-3rd/dp/0132316811) - A very accessible illustration of algorithms in the forms of puzzles. No programming experience is required!
 
 ### Interactive Learning & Visualization
-* [Algorithm Visualizer](http://algo-visualizer.jasonpark.me/) - Dozens of animated algorithms (with code), and you can also create your own.
 * [VisuAlgo](http://visualgo.net) - Visualising data structures and algorithms through animation.
-* [redblobgames](https://www.redblobgames.com/) - interactive visual explanations of math and algorithms, using motivating examples from computer games.
 * [See Algorithms](https://see-algorithms.com/) – Visualizes algorithms and lets users create and share custom graphs and binary trees.
 
 ## Programming Contest
