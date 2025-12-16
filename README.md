@@ -30,7 +30,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 ### Interactive Learning & Visualization
 * [VisuAlgo](http://visualgo.net) - Visualising data structures and algorithms through animation.
 * [See Algorithms](https://see-algorithms.com/) – Visualizes algorithms and lets users create and share custom graphs and binary trees.
-* [Algorithm Visualizer](https://algorithm-visualizer.org/) – An interactive platform that visualizes algorithms step by step, helping beginners understand how algorithms work internally.
+* [Algorithm Visualizer](https://algorithm-visualizer.seancoughlin.me/) – An interactive platform that visualizes algorithms step by step, helping beginners understand how algorithms work internally.
 
 
 ## Programming Contest
