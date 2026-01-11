@@ -19,9 +19,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 ### YouTube Playlist
 * [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - Algorithm course ministered by Tomas Cormen and Devin Balkcom.
-* [FreeCodeCamp - Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0) - Complete beginner friendly Algorithms and Data Structures Tutorial with mindblowing animation.
-* [Abdul Bari - Introduction to Algorithm](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) - This playlist is so much informative and provide simulation with code example. As like as you are in a class.
-* [Jenny's Lectures- Algorithm](https://www.youtube.com/watch?v=AT14lCXuMKI&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU) - Another complete algorithm playlist from basic level to intermediate. Easy explanation and simulation.
+* FreeCodeCamp. Algorithms and Data Structures: [5 hours](https://www.youtube.com/watch?v=8hly31xKli0), [49 hours](https://youtu.be/xwI5OBEnsZU?si=W3CduIEmUehJERHk) - Complete beginner friendly Algorithms and Data Structures Tutorial with mindblowing animation.
 
 ### Book
 * [Real World Algorithms: A Beginner's Guide](https://mitpress.mit.edu/books/real-world-algorithms) - An introduction to algorithms for readers with no background in advanced mathematics or computer science.
