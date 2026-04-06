@@ -14,6 +14,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
     - [Special Topic](#special-topic)
     - [Cheat Sheet](#cheat-sheet)
     - [Related Awesome List](#related-awesome-list)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts implementing algorithmic patterns for multi-agent task scheduling, priority queues, and distributed orchestration. MIT licensed.
 
 ## Beginner-Friendly
 
