@@ -91,6 +91,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 - [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science/) - The interdisciplinary of Mathematics and Computer Science, distinguished by its emphasis on mathematical technique and rigour.
 - [Math](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 
 ## License
 
