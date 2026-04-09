@@ -15,6 +15,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
     - [Cheat Sheet](#cheat-sheet)
     - [Related Awesome List](#related-awesome-list)
 
+- [Gitstar](https://gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=tayllan_awesome-algorithms) - Free social feed for GitHub. Follow developers, discover trending repos, see what your stack is building.
 ## Beginner-Friendly
 
 ### YouTube Playlist
