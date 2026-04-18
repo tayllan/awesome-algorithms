@@ -28,6 +28,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 ### Interactive Learning & Visualization
 * [VisuAlgo](http://visualgo.net) - Visualising data structures and algorithms through animation.
 * [See Algorithms](https://see-algorithms.com/) – Visualizes algorithms and lets users create and share custom graphs and binary trees.
+* [Recursive](https://recursive.oilater.com/en) - Visualizes code execution step-by-step with a call tree, variable tracking, and line highlighting. Supports Python and JavaScript/TypeScript.
 
 ## Programming Contest
 
