@@ -63,6 +63,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [MIT - 6-006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/video_galleries/lecture-videos/) - Well explained algorithms.
 * [MIT - 6-046j](https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video_galleries/video-lectures/) - Similar to the previous one, but with different algorithms.
 * [MIT - 6-00sc](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) - An easy and well-explained introduction to algorithms.
+* [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ### YouTube Playlist
 * [Tim Roughgarden. Algorithms Illuminated](https://www.algorithmsilluminated.org/) - Tim Roughgarden, a pioneer of computer science, offers a companion to his book, with lecture videos and slides.
