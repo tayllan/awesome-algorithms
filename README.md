@@ -87,6 +87,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [CLRS in short](https://sinon.org/algorithms//#data-structures)
 * [Rice university DS course in short](https://www.clear.rice.edu/comp160/data1.html)
 * [Algo Deck](https://github.com/teivah/algodeck/) - An open-source collection of +200 algorithmic cards.
+* [Coding Interview Patterns](https://github.com/ExporaCloud/coding-interview-patterns) - Open guide to the 7 core interview patterns with triggers, classic LeetCode problems, complexity, and a decision framework.
 
 ## Related Awesome List
 
