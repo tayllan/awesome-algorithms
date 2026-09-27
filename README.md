@@ -47,6 +47,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Leet Code](https://leetcode.com/) - Interviews problems.
 * [UVA](https://uva.onlinejudge.org/) - Archives previous ACM-ICPC Regionals and World Finals.
 * [ProjectEuler](https://projecteuler.net/) - Math oriented problems.
+* [Rosalind](https://rosalind.info/) - Free bioinformatics problems solved by programming, from string algorithms to genome assembly and phylogeny.
 
 ### Blog
 * [An awesome list for competitive programming!](https://codeforces.com/blog/entry/23054) - Awesome blog for all the resources and list of books and algorithms.
