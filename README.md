@@ -30,6 +30,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [See Algorithms](https://see-algorithms.com/) – Visualizes algorithms and lets users create and share custom graphs and binary trees.
 * [leetcode-py](https://github.com/wislertt/leetcode-py) - Generates local LeetCode practice environments in Python, with Graphviz diagrams of trees, linked lists, and graphs in Jupyter and a parametrized pytest suite per problem.
 * [DSA View View](https://dsa-view-view.vercel.app/) - Runs your own TypeScript algorithm functions in the browser and shows arrays, matrices, trees, linked lists, stacks, and pointers changing step by step, with built-in LeetCode-style examples.
+* [Sorting Algorithm Visualizer](https://bestlatestapps.com/tools/sorting-visualizer/) - Runs bubble, selection, insertion, merge, quick and heap sort on the same data one comparison or swap at a time, with counters for comparing how much work each does, and accepts your own list of up to 200 numbers.
 
 ## Programming Contest
 
