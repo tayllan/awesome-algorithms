@@ -86,7 +86,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Tech Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
 * [Princeton DS Cheat Sheet](https://algs4.cs.princeton.edu/cheatsheet/)
 * [CLRS in short](https://sinon.org/algorithms//#data-structures)
-* [Rice university DS course in short](https://www.clear.rice.edu/comp160/data1.html)
+* [Rice university DS course in short](https://web.archive.org/web/20260204101050/https://www.clear.rice.edu/comp160/data1.html)
 * [Algo Deck](https://github.com/teivah/algodeck/) - An open-source collection of +200 algorithmic cards.
 
 ## Related Awesome List
