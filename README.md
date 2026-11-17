@@ -8,6 +8,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Awesome Algorithms](#awesome-algorithms)
     - [Beginner-Friendly](#beginner-friendly)
     - [Programming Contest](#programming-contest)
+    - [Interview Preparation](#interview-preparation)
     - [Theory & Fundamentals](#theory--fundamentals)
     - [Production System](#production-system)
     - [Database](#database)
@@ -52,6 +53,10 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [An awesome list for competitive programming!](https://codeforces.com/blog/entry/23054) - Awesome blog for all the resources and list of books and algorithms.
 * [Algorithms Weekly](https://petr-mitrichev.blogspot.com/) - A good blog by Petr Mitrichev, mainly in Java.
 * [Algorithm Tutorials by Tanuj Khattar](https://tanujkhattar.wordpress.com/) - Excellent blog by Tanuj Khattar. Covers tutorials on some interesting data structures along with example problems to solve.
+
+## Interview Preparation
+
+* [Company-wise Coding Questions](https://github.com/ayaanp14/company-wise-coding-questions) - Coding interview questions grouped by the companies that ask them (TCS, Infosys, Amazon, Google and 60 more), sorted by difficulty, with a list of the questions the most companies ask.
 
 ## Theory & Fundamentals
 
